@@ -93,7 +93,16 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDTFwRyHmgz4VnZsvEuIPAjsyTU2nz6jx2J8RctmZUo
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 ## 📊 GitHub Stats 📈
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1 1 45%; margin-bottom: 20px;">
+    <a href="https://github.com/bdsumon4u">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500" alt="Top Langs">
+    </a>
+  </div>
+  <div style="flex: 1 1 45%; margin-bottom: 20px;">
+    <a href="https://github.com/bdsumon4u">
+      <img src="https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500" alt="GitHub Stats">
+    </a>
+  </div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
