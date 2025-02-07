@@ -1,3 +1,4 @@
+
 <details>
   <summary><b>🔒&nbsp;&nbsp;RSA&nbsp;Public&nbsp;Key</b></summary>
   <br/>
@@ -86,9 +87,84 @@ vlAd1yFkDJdt
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![HotashSHOP](https://svg.bookmark.style/api?url=https://github.com/bdsumon4u/HotashSHOP&mode=light&style=horizontal)](https://github.com/bdsumon4u/HotashSHOP)
 [![HotashKom](https://svg.bookmark.style/api?url=https://github.com/bdsumon4u/HotashKom&mode=dark&style=horizontal)](https://github.com/bdsumon4u/HotashKom)
 [![iUddokta](https://svg.bookmark.style/api?url=https://github.com/bdsumon4u/iUddokta&mode=light&style=horizontal)](https://github.com/bdsumon4u/iUddokta)
+
+## 🚀 Successful Projects  
+
+<details>
+  <summary>📌 <strong>HotashKom</strong></summary>
+
+  - **Description:**
+  This is a full fledge E-Commerce application.
+  - **🔴 This project is being used by <span style="color:red">hundreds</span> of clients!**  
+  - **GitHub Repo:** [🔗 Repository Link](https://github.com/bdsumon4u/HotashKom)
+  - **Live Demo:** 🌍 [ecom.cyber32.net](https://ecom.cyber32.net)
+  - **Used Technologies/Tools:**  
+    ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
+    ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
+    ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+    ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+  
+</details>
+
+<details>
+  <summary>📌 <strong>iUddokta</strong></summary>
+
+  - **Description:** It's a cool project for wholesale and dropshipping.
+  - **GitHub Repo:** [🔗 Repository Link](https://github.com/bdsumon4u/iUddokta)
+  - **Live (Not a Demo):** - 🌍 [iuddokta.com](https://iuddokta.com)
+  - **Used Technologies/Tools:**  
+    ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
+    ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
+    ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+    ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+
+</details>
+
+<details>
+  <summary>📌 <strong>Work32</strong></summary>
+
+  - **Description:** A cool project for internal workflow management of Cyber 32.
+  - **GitHub Repo:** [🔗 Repository Link](https://github.com/bdsumon4u/work32)
+  - **Live (Not a Demo):** 🌍 [work.cyber32.com](https://work.cyber32.com)
+  - **Used Technologies/Tools:**  
+    ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
+    ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
+    ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+    ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+
+</details>
+
+<details>
+  <summary>📌 <strong>Site32</strong></summary>
+
+  - **Description:** This cool project automatically updates HotashKom's new features/fixes to hundreds of clients' websites if the client has a maintenance package on Cyber 32's WHMCS portal.
+  - **GitHub Repo:** [🔗 Repository Link](https://github.com/bdsumon4u/sites)
+  - **Live (Not a Demo):** 🌍 [sites.cyber32.net](https://sites.cyber32.net)
+  - **Used Technologies/Tools:**  
+    ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
+    ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
+    ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+    ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+
+</details>
+
+> **🟡 AND:** some other [] projects.
+## ✨ Open-Source Contributions  
+
+I actively contribute to open-source projects, helping improve frameworks, libraries, and developer tools. Here are some notable contributions:  
+
+| 🔹 Project                                                                      | 🔹 Contribution |
+|---------------------------------------------------------------------------------|-----------------|
+| **[Filament Menu Builder](https://github.com/datlechin/filament-menu-builder)** | Bug fixes & feature improvements ([#30](https://github.com/datlechin/filament-menu-builder/pull/30)) |
+| **[Laravel Splade](https://github.com/protonemedia/laravel-splade)**            | Event support on Bridge component ([#433](https://github.com/protonemedia/laravel-splade/pull/433)) |
+| **[Laravel Fortify](https://github.com/laravel/fortify)**                       | Added Response contract bindings ([#425](https://github.com/laravel/fortify/pull/425)) |
+| **[Laravel Jetstream](https://github.com/laravel/jetstream)**                   | Raised issue on EmailVerificationTest ([#425](https://github.com/laravel/jetstream/issues/755)) |
+| **[Laravel Framework](https://github.com/laravel/framework)**                   | Reported for a missing doc ([#425](https://github.com/laravel/framework/commit/e45b94e8242e1789d6f9cdb0e3ae7fa1c6189ca0)) |
+| **Other Contributions** | [My GitHub Contributions](https://github.com/pulls?q=author%3Abdsumon4u) | Various PRs & issue fixes |
+
+> 💡 _Check out my full list of contributions on_ [GitHub Pull Requests](https://github.com/pulls?q=author%3Abdsumon4u). 🚀  
 
 ## 🚀 My Tech Stack
 
