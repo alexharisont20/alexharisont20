@@ -1,4 +1,3 @@
-
 <details>
   <summary><b>🔒&nbsp;&nbsp;RSA&nbsp;Public&nbsp;Key</b></summary>
   <br/>
@@ -7,9 +6,68 @@
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDTFwRyHmgz4VnZsvEuIPAjsyTU2nz6jx2J8RctmZUoVmycmoB+UOr3iDcZCswWhSqNChqtBHBf0Tg3KcP//7CZHFRjC037W01qdtDJJo5GdLDZ2Y3v09qDoZscyWN0oecMcNsDTrBRN+g7lZjxfjoRIsbwQftRoKU10eX9Uczk7TxJuG2AjAecftb9Z7W5TuytZ/KDY7NjcBSG4wJi3j0p3xCIKmhYY5+WGiw3mzxLu2n9+d5jM67cZ6M9omyOGxBxHKo5KydnHFIkNvxtVGDN0OkRh3iqmBuEG7Wpy9fQD2f/ZoD0bbNnB5Ej4TnwZs7X55u0tEEhWhxHSc8y4g6ick9CTQCGz2TgrNtpZzrR/OrFhHBfUTF3vcnmzwDTOxmGX9u770cYmcZXKFrbZQXLYZtDPFv9A5jgyEyBeoy03TA08ksZ8qDCb8CGPdFQ9NDG29/ASxFZ75zzD5K8ZRla9QW2kvI2RKWI8Jn+8gbReRpDhJ3qkEXBXGnUUWSO8R8= bdsumon4u@gmail.com
 ```
 </details>
+<details>
+  <summary><b>🔒&nbsp;&nbsp;GPG&nbsp;Public&nbsp;Key</b></summary>
+  <br/>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGd1ecYBEAC6O/gyZagYE0J5v/NUFihozyw+NchMH2K5brnT2zyIVou7NIcp
+WzTkovli9WgidjwWgj2QNIM6yAiEgJmYXfIZxtiBgNc3XiLu/nrDz23lbEByAjh7
+rGDsOdA9e3YvjXnePZqST9RKWkB5NMOCQD0NYBrU9OGw59fE4z0hzW1nep1YQaVv
+QJM5PzJ4chuXGRanI82ougf+ckC36tbSxsvFfPFH3u0oH6SOKUnnRfEX6X5qOW//
+FC6F6WjtLRP1m7OR/B9LKQv/CR7LqWA8PuRGOBg9kMRdifePPXHBAyPfldfNa0DH
+0KB06XszLF+4xrd2rByuwSfrineGKAKpKbj28zl5LH+GSZhV1KzarkqEMZjiDrMv
+5MVO59JGbuO6QJ6rlmiJZbIkeV9l7bI+/LRuBM8pl5ZvC2OLKMVV9ahmxsr/XsYN
+cq5bZSmBb8jj8UBSAPDQHGSfHhp+mqlV+pGhivw8Vv6Y5TKQICrcetBJkdzqSa1t
+3kRak5xRmASksmJWlFRKbmPayoywSPgtj1EhZB32fiYS3r+ClAvOpuLqBDqATwRY
+AydS+66bfapdOC8ZQahqnyghDPewL7XoUZeMEsoWTpijS70kAFBIsHi5s1P1tSSd
++PaZW5a42AUydN/dKr0N9q0f3z2r/j0uznJv0L5OVC9XI64/8bm6JEI7IQARAQAB
+tCFTdW1vbiBBaG1lZCA8YmRzdW1vbjR1QGdtYWlsLmNvbT6JAlQEEwEIAD4WIQSa
+UISeP3oipMqNttYb71QNV+fbiwUCZ3V5xgIbAwUJB4YfQwULCQgHAgYVCgkICwIE
+FgIDAQIeAQIXgAAKCRAb71QNV+fbi5bnD/9Istvh7asCnoAoIxO41WKLGhwMLKQ8
+qVQFDdTJpxLxqkHB1WtlzgUwqIWQMOffSW1Pqz+KAJrler/venHAhq+VrGxSGBYB
+KFc/S0i9Yc7/6FgMT3V5p+mkQmzhT9BNiVnVSAaITo+9cOFvXKvH+L1PNohr3ymL
+j1RlKP9K/p1ayd+ZHnsjA9kaVAq25v1GjuQMeji6xkzuU1KM4GhUgRoZUe68+B6l
+wLxwH88N7vxp9sk/j0cUtSgFfRszVcePDVvLciHZlsyBaz1zf9gkLnbCU+daNyWN
+w3rsN771IRG7wMejJtZq678/LE9lm/Uw5U24wTzzXpL9urE8D5G0Tzm/Ryt23PyI
+ltDD1w6PpEiSrnyrxyCcVaOHKcW09oxdMjQBbFsNF3Vu6EQA9KFAjwulLK4sGUKm
+IBdOQOMui3UTjYKA+BtYta+QyH4f+/89nZQshvonkCAxkkatCK1vLwtT+L+9w6+d
+JqwD4uA9ByFhXpDGuRcJwtnb5neGCX+JOyxp08B20e0+yW82b5PgUjB1G/+ATC4u
+GWiZSdjeA3REZ0ihxOdikSKAUOQdj5o0/Gh/44mmoE9KT4mWMRjk/V1FVXgkp9Is
+wJdgrXHQW7gavxAZ5sxwoDdTJtJGRwgC5zN8zebuJ4xc7xc0y36NcAsNXD666j2r
+eoBkmWNXo96ntbkCDQRndXnGARAA1P+0U8yVFyKVS4PaJd4aGYSjuJm/mbAFMDvv
+gZjkPBaS3EcAey7ufoj+u0z3nhACNQLP5yiCcYYjuIPzn4POCI91buToXO4n0XSR
+k9TtGIVtJUt8QRLaKVfxD2ZU7A9rMpWkjzHUX5Ot+XSMBy7IQJlZCMCGwSkI3CvO
+tdOWRgEDa0gMN3tjIDS6aG65545ueGhyVi6cb0ohuGzDzulYz1e5mW7Q2FlpwuI/
+avXVqkI82UyskVIamP44zshzrDjwj0a7XnuEiGmaxSWunbS7A41k9BfUNP8qMrCi
+psdyDfQ7CVn5xdKXXROpHMyLa/lucKz1qlV82gb+uIrSxf0JzpQokJtavhvFjp12
+3b5o436akZpksXwqMJuE/m5Sl2RaHSVkgROna26tVoaHH4ujIFQkfjQmctNCX+jd
+YqSe2HqbsAw1vhktd3Sh1bd5iRpaQUdfJrtYtP8tuK+xz1c4vpX2j0uYVXnalQui
+VdCoImuhzIjsoEEOODMzilAhEKdyaVGqMwUqNMaZfMyg98Y09PZ/Qcax7/FkjScH
+B/2GgTCq5hXEvZn9EZm6fedE7bgUhnXuJazAm+UqOkeyZpiBzA7hYd9c06IaRuh6
+/97cnD9PoZtqiFr29UfUaalC8Z6kCgrSdFQkNaIugu2UW8uBrgFIOIDiInVxQPD5
+ZHA5zX0AEQEAAYkCPAQYAQgAJhYhBJpQhJ4/eiKkyo221hvvVA1X59uLBQJndXnG
+AhsMBQkHhh9DAAoJEBvvVA1X59uLxuIP/jWIN35hmbVwJuh+WjoN/Cp9bkSoj2pw
+blXsXS+uco8+1Oh7D09PDbrKeLCsNbKk3MUXHN7gKL5sIr8D/6YazRF3f+Z6jrZz
+GcyIDh79Q9B97xJndJ+JxtU0oJICPopG3+IrPogoLqmGGbR1NRsz9V161Ww7WQ1+
+jdih0RFs8pgZE/wtOmy5ZvoZdjWNCk1kE2k6Rmuw7cknphCO9QMx/M/8X4bxfz5f
+l3l6/nFcf/QYGeNsbbJ3fUktwhrcLeASOtCOtuVhePTXCl5KVTnK270XKajFRVIw
+Imy1Uzl8qkSw/UGIrB5Eug1pBt7e5cLIj7OvSiJuZuAbL0OwLrY5Wt3KzbbnOU46
+ruREPELFxGYe9w+e2ZQZtSGjiNrfvclYIQOJlW3zSkIUX5sDvCF+C43or1+BKOUe
+YQAnA3zBTkRfbeZjdi13ApTAkgUKPDeEuBFmyIOhmDmMtAoPpK4wtf2DOT3+IZy0
+Vfk7cNvmcJIxYqQofcBvraDc7Ir5hrfSfNcinam5MfRkTrdycOLXvF/NXoLzGF6m
+2CUhNcrXJAsYYMHw2g6GuCJME+7fM6DaoydUrlhKK2XvW9xofnnpMrDu2U+1Xssf
+Eq53WdnwTDeyFN8vmHhRt0iVNOK4lFOYxoBXa41Rm6uveCoJxwM2+la6ohQj3edn
+vlAd1yFkDJdt
+=sjsB
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
 
 # 𝐻𝑒𝓁𝓁𝑜 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 𝐼'𝓂 𝓢𝓾𝓶𝓸𝓷 𝓐𝓱𝓶𝓮𝓭
-𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙛𝙧𝙤𝙢  𝘽𝙖𝙣𝙜𝙡𝙖𝙙𝙚𝙨𝙝, 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙣𝙙 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙞𝙣 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 𝙤𝙛 𝙍𝙖𝙟𝙨𝙝𝙖𝙝𝙞.
+𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙛𝙧𝙤𝙢 𝘽𝙖𝙣𝙜𝙡𝙖𝙙𝙚𝙨𝙝, 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙣𝙙 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙖𝙩 𝙩𝙝𝙚 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 𝙤𝙛 𝙍𝙖𝙟𝙨𝙝𝙖𝙝𝙞.
 
 [![](https://img.shields.io/badge/-bdsumon4u-%231877F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/bdsumon4u)
 [![](https://img.shields.io/badge/-bdsumon4u-%231DA1F2?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/bdsumon4u)
@@ -20,7 +78,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDTFwRyHmgz4VnZsvEuIPAjsyTU2nz6jx2J8RctmZUo
 [![](https://img.shields.io/badge/-bdsumon4u@gmail.com-%23D14836?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:bdsumon4u@gmail.com)
 [![](https://img.shields.io/badge/-hotash.tech-%23000000?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://hotash.tech)
 
-𝑰 ❤️ 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝘓𝘢𝘳𝘢𝘷𝘦𝘭
+𝑰 ❤️ 𝑩𝒂𝒄𝒌𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝘓𝘢𝘳𝘢𝘷𝘦𝘭
 
 :computer: 𝑨 𝒘𝒆𝒃 𝒅𝒆𝒗 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝘓𝘢𝘳𝘢𝘷𝘦𝘭.
 
@@ -28,9 +86,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDTFwRyHmgz4VnZsvEuIPAjsyTU2nz6jx2J8RctmZUo
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
-[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
+[![HotashSHOP](https://svg.bookmark.style/api?url=https://github.com/bdsumon4u/HotashSHOP&mode=light&style=horizontal)](https://github.com/bdsumon4u/HotashSHOP)
+[![HotashKom](https://svg.bookmark.style/api?url=https://github.com/bdsumon4u/HotashKom&mode=dark&style=horizontal)](https://github.com/bdsumon4u/HotashKom)
+[![iUddokta](https://svg.bookmark.style/api?url=https://github.com/bdsumon4u/iUddokta&mode=light&style=horizontal)](https://github.com/bdsumon4u/iUddokta)
 
 ## 🚀 My Tech Stack
 
@@ -93,16 +151,5 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDTFwRyHmgz4VnZsvEuIPAjsyTU2nz6jx2J8RctmZUo
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 ## 📊 GitHub Stats 📈
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1 1 45%; margin-bottom: 20px;">
-    <a href="https://github.com/bdsumon4u">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500" alt="Top Langs">
-    </a>
-  </div>
-  <div style="flex: 1 1 45%; margin-bottom: 20px;">
-    <a href="https://github.com/bdsumon4u">
-      <img src="https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500" alt="GitHub Stats">
-    </a>
-  </div>
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
