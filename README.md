@@ -101,11 +101,18 @@ vlAd1yFkDJdt
   - **GitHub Repo:** [🔗 Repository Link](https://github.com/bdsumon4u/HotashKom)
   - **Live Demo:** 🌍 [ecom.cyber32.net](https://ecom.cyber32.net)
   - **Used Technologies/Tools:**  
-    ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
-    ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
-    ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+    ![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-FF47A1?style=flat-square&logo=laravel&logoColor=white)
+    ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=laravel&logoColor=white)
+    ![REST API](https://img.shields.io/badge/-REST-02569B?style=flat-square&logo=rest&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
     ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-  
+    ![Algolia](https://img.shields.io/badge/-Algolia-516BEB?style=flat-square&logo=algolia&logoColor=white)
+    ![Laravel Pint](https://img.shields.io/badge/-Laravel%20Pint-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+    ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+    ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+
 </details>
 
 <details>
@@ -115,10 +122,15 @@ vlAd1yFkDJdt
   - **GitHub Repo:** [🔗 Repository Link](https://github.com/bdsumon4u/iUddokta)
   - **Live (Not a Demo):** - 🌍 [iuddokta.com](https://iuddokta.com)
   - **Used Technologies/Tools:**  
-    ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
-    ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
-    ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+    ![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-FF47A1?style=flat-square&logo=laravel&logoColor=white)
+    ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=laravel&logoColor=white)
+    ![REST API](https://img.shields.io/badge/-REST-02569B?style=flat-square&logo=rest&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
     ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+    ![Laravel Pint](https://img.shields.io/badge/-Laravel%20Pint-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+    ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 </details>
 
@@ -129,10 +141,13 @@ vlAd1yFkDJdt
   - **GitHub Repo:** [🔗 Repository Link](https://github.com/bdsumon4u/work32)
   - **Live (Not a Demo):** 🌍 [work.cyber32.com](https://work.cyber32.com)
   - **Used Technologies/Tools:**  
-    ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
-    ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
-    ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+    ![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-FF47A1?style=flat-square&logo=laravel&logoColor=white)
+    ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=laravel&logoColor=white)
     ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+    ![Laravel Pint](https://img.shields.io/badge/-Laravel%20Pint-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+    ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 </details>
 
@@ -143,17 +158,24 @@ vlAd1yFkDJdt
   - **GitHub Repo:** [🔗 Repository Link](https://github.com/bdsumon4u/sites)
   - **Live (Not a Demo):** 🌍 [sites.cyber32.net](https://sites.cyber32.net)
   - **Used Technologies/Tools:**  
-    ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
-    ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
-    ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+    ![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-FF47A1?style=flat-square&logo=laravel&logoColor=white)
+    ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=laravel&logoColor=white)
+    ![REST API](https://img.shields.io/badge/-REST-02569B?style=flat-square&logo=rest&logoColor=white)
     ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+    ![Laravel Pint](https://img.shields.io/badge/-Laravel%20Pint-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+    ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+    ![Bash](https://img.shields.io/badge/-Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)
+    ![Shell](https://img.shields.io/badge/-Shell%20Script-%2389E051?style=flat-square&logo=gnome-terminal&logoColor=black)
+    ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 </details>
 
 > **🟡 AND:** some other [] projects.
 ## ✨ Open-Source Contributions  
 
-I actively contribute to open-source projects, helping improve frameworks, libraries, and developer tools. Here are some notable contributions:  
+I rarely contribute to open-source projects. Here are some insignificant contributions:  
 
 | 🔹 Project                                                                      | 🔹 Contribution |
 |---------------------------------------------------------------------------------|-----------------|
@@ -200,6 +222,8 @@ I actively contribute to open-source projects, helping improve frameworks, libra
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
 ![Caddy](https://img.shields.io/badge/-Caddy-2EB461?style=flat-square&logo=caddy&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell%20Script-%2389E051?style=flat-square&logo=gnome-terminal&logoColor=black)
 
 ### 🔹 Authentication & Security
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
