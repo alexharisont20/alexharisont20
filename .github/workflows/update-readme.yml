@@ -31,7 +31,7 @@ jobs:
           fi
 
           echo "## Active Deployments: $COUNT [currently live]" >> domains.md
-          echo "_Last updated: **$LAST_UPDATED**_" >> README.md
+          echo "_Last updated: **$LAST_UPDATED**_" >> domains.md
           echo "" >> domains.md
           echo "| # | Domain |" >> domains.md
           echo "|---|--------|" >> domains.md
