@@ -256,133 +256,70 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}63}$$ 🔥 domains are live now
 
-_Last updated: **2025-02-08 20:19:43 Asia/Dhaka**_
+_Last updated: **2025-02-08 20:21:13 Asia/Dhaka**_
 
-| # | Domain |
-|---|--------|
-| 1 | [scom1.cyber32.net](http://scom1.cyber32.net) |
-| 2 | [Active](http://Active) |
-| 3 | [kalbtradebd.com](http://kalbtradebd.com) |
-| 4 | [Active](http://Active) |
-| 5 | [icchabd.com](http://icchabd.com) |
-| 6 | [Active](http://Active) |
-| 7 | [priyomarket.com](http://priyomarket.com) |
-| 8 | [Active](http://Active) |
-| 9 | [jarifmart.com](http://jarifmart.com) |
-| 10 | [Active](http://Active) |
-| 11 | [bsbazarbd.com](http://bsbazarbd.com) |
-| 12 | [Active](http://Active) |
-| 13 | [bagbazzarbd.com](http://bagbazzarbd.com) |
-| 14 | [Failed](http://Failed) |
-| 15 | [zozobd.com](http://zozobd.com) |
-| 16 | [Failed](http://Failed) |
-| 17 | [iuddokta.com](http://iuddokta.com) |
-| 18 | [Active](http://Active) |
-| 19 | [kroymela.com](http://kroymela.com) |
-| 20 | [Active](http://Active) |
-| 21 | [bagstorebd.com](http://bagstorebd.com) |
-| 22 | [Active](http://Active) |
-| 23 | [smbazarbd.com](http://smbazarbd.com) |
-| 24 | [Active](http://Active) |
-| 25 | [bondhubazaar.com](http://bondhubazaar.com) |
-| 26 | [Failed](http://Failed) |
-| 27 | [realgreenbd.com](http://realgreenbd.com) |
-| 28 | [Failed](http://Failed) |
-| 29 | [ramboshopping.com](http://ramboshopping.com) |
-| 30 | [Active](http://Active) |
-| 31 | [somironbd.com](http://somironbd.com) |
-| 32 | [Failed](http://Failed) |
-| 33 | [allinone.com.bd](http://allinone.com.bd) |
-| 34 | [Failed](http://Failed) |
-| 35 | [bikroyjogot.com](http://bikroyjogot.com) |
-| 36 | [Active](http://Active) |
-| 37 | [almatzar.com](http://almatzar.com) |
-| 38 | [Failed](http://Failed) |
-| 39 | [netc24.com](http://netc24.com) |
-| 40 | [Active](http://Active) |
-| 41 | [starmartbd.com](http://starmartbd.com) |
-| 42 | [Failed](http://Failed) |
-| 43 | [honestshop24.com](http://honestshop24.com) |
-| 44 | [Active](http://Active) |
-| 45 | [bazardorbd.com](http://bazardorbd.com) |
-| 46 | [Failed](http://Failed) |
-| 47 | [kenakatabd24.com](http://kenakatabd24.com) |
-| 48 | [Failed](http://Failed) |
-| 49 | [emaxbd.com](http://emaxbd.com) |
-| 50 | [Active](http://Active) |
-| 51 | [asell.com.bd](http://asell.com.bd) |
-| 52 | [Active](http://Active) |
-| 53 | [banglashop24.com](http://banglashop24.com) |
-| 54 | [Active](http://Active) |
-| 55 | [ibnatbd.com](http://ibnatbd.com) |
-| 56 | [Active](http://Active) |
-| 57 | [nababazar.com](http://nababazar.com) |
-| 58 | [Active](http://Active) |
-| 59 | [bideshiherbal.com](http://bideshiherbal.com) |
-| 60 | [Failed](http://Failed) |
-| 61 | [gadgetbd71.com](http://gadgetbd71.com) |
-| 62 | [Failed](http://Failed) |
-| 63 | [arafshoppingbd.com](http://arafshoppingbd.com) |
-| 64 | [Active](http://Active) |
-| 65 | [ecom.sebaitsolutions.com](http://ecom.sebaitsolutions.com) |
-| 66 | [Active](http://Active) |
-| 67 | [akshopbd.com](http://akshopbd.com) |
-| 68 | [Active](http://Active) |
-| 69 | [alambazar.com](http://alambazar.com) |
-| 70 | [Active](http://Active) |
-| 71 | [alwajeed.com](http://alwajeed.com) |
-| 72 | [Active](http://Active) |
-| 73 | [buyblendbd.com](http://buyblendbd.com) |
-| 74 | [Active](http://Active) |
-| 75 | [crazycartz.com](http://crazycartz.com) |
-| 76 | [Active](http://Active) |
-| 77 | [dotbd24.com](http://dotbd24.com) |
-| 78 | [Active](http://Active) |
-| 79 | [esopno.com](http://esopno.com) |
-| 80 | [Active](http://Active) |
-| 81 | [flymartvaly.com](http://flymartvaly.com) |
-| 82 | [Active](http://Active) |
-| 83 | [farukonlineshop.com](http://farukonlineshop.com) |
-| 84 | [Active](http://Active) |
-| 85 | [growupzonebd.com](http://growupzonebd.com) |
-| 86 | [Active](http://Active) |
-| 87 | [homeneedsbd.com](http://homeneedsbd.com) |
-| 88 | [Active](http://Active) |
-| 89 | [lalarkap.com](http://lalarkap.com) |
-| 90 | [Active](http://Active) |
-| 91 | [liberaltradersbd.com](http://liberaltradersbd.com) |
-| 92 | [Active](http://Active) |
-| 93 | [makprobd.com](http://makprobd.com) |
-| 94 | [Active](http://Active) |
-| 95 | [malashop24.com](http://malashop24.com) |
-| 96 | [Active](http://Active) |
-| 97 | [monpurabazar.com](http://monpurabazar.com) |
-| 98 | [Active](http://Active) |
-| 99 | [mrtshop24.com](http://mrtshop24.com) |
-| 100 | [Active](http://Active) |
-| 101 | [myriadmartt.com](http://myriadmartt.com) |
-| 102 | [Active](http://Active) |
-| 103 | [nhindustrybd.com](http://nhindustrybd.com) |
-| 104 | [Active](http://Active) |
-| 105 | [onekkichobd.com](http://onekkichobd.com) |
-| 106 | [Active](http://Active) |
-| 107 | [optionbd24.com](http://optionbd24.com) |
-| 108 | [Active](http://Active) |
-| 109 | [piuraonlineshop.com](http://piuraonlineshop.com) |
-| 110 | [Active](http://Active) |
-| 111 | [pureneedbd.com](http://pureneedbd.com) |
-| 112 | [Active](http://Active) |
-| 113 | [racebdshopping.com](http://racebdshopping.com) |
-| 114 | [Active](http://Active) |
-| 115 | [knakata.com](http://knakata.com) |
-| 116 | [Failed](http://Failed) |
-| 117 | [ouroxa.com](http://ouroxa.com) |
-| 118 | [Active](http://Active) |
-| 119 | [shopnerdokanbd.com](http://shopnerdokanbd.com) |
-| 120 | [Failed](http://Failed) |
-| 121 | [ayatcollection.com](http://ayatcollection.com) |
-| 122 | [Active](http://Active) |
-| 123 | [comboshoppingbd.com](http://comboshoppingbd.com) |
-| 124 | [Active](http://Active) |
-| 125 | [djkshop.com](http://djkshop.com) |
-| 126 | [Active](http://Active) |
+| # | Domain | Status |
+|---|--------|--------|
+| 1 | [scom1.cyber32.net](http://scom1.cyber32.net) | Active |
+| 2 | [kalbtradebd.com](http://kalbtradebd.com) | Active |
+| 3 | [icchabd.com](http://icchabd.com) | Active |
+| 4 | [priyomarket.com](http://priyomarket.com) | Active |
+| 5 | [jarifmart.com](http://jarifmart.com) | Active |
+| 6 | [bsbazarbd.com](http://bsbazarbd.com) | Active |
+| 7 | [bagbazzarbd.com](http://bagbazzarbd.com) | Failed |
+| 8 | [zozobd.com](http://zozobd.com) | Failed |
+| 9 | [iuddokta.com](http://iuddokta.com) | Active |
+| 10 | [kroymela.com](http://kroymela.com) | Active |
+| 11 | [bagstorebd.com](http://bagstorebd.com) | Active |
+| 12 | [smbazarbd.com](http://smbazarbd.com) | Active |
+| 13 | [bondhubazaar.com](http://bondhubazaar.com) | Failed |
+| 14 | [realgreenbd.com](http://realgreenbd.com) | Failed |
+| 15 | [ramboshopping.com](http://ramboshopping.com) | Active |
+| 16 | [somironbd.com](http://somironbd.com) | Failed |
+| 17 | [allinone.com.bd](http://allinone.com.bd) | Failed |
+| 18 | [bikroyjogot.com](http://bikroyjogot.com) | Active |
+| 19 | [almatzar.com](http://almatzar.com) | Failed |
+| 20 | [netc24.com](http://netc24.com) | Active |
+| 21 | [starmartbd.com](http://starmartbd.com) | Failed |
+| 22 | [honestshop24.com](http://honestshop24.com) | Active |
+| 23 | [bazardorbd.com](http://bazardorbd.com) | Failed |
+| 24 | [kenakatabd24.com](http://kenakatabd24.com) | Failed |
+| 25 | [emaxbd.com](http://emaxbd.com) | Active |
+| 26 | [asell.com.bd](http://asell.com.bd) | Active |
+| 27 | [banglashop24.com](http://banglashop24.com) | Active |
+| 28 | [ibnatbd.com](http://ibnatbd.com) | Active |
+| 29 | [nababazar.com](http://nababazar.com) | Active |
+| 30 | [bideshiherbal.com](http://bideshiherbal.com) | Failed |
+| 31 | [gadgetbd71.com](http://gadgetbd71.com) | Failed |
+| 32 | [arafshoppingbd.com](http://arafshoppingbd.com) | Active |
+| 33 | [ecom.sebaitsolutions.com](http://ecom.sebaitsolutions.com) | Active |
+| 34 | [akshopbd.com](http://akshopbd.com) | Active |
+| 35 | [alambazar.com](http://alambazar.com) | Active |
+| 36 | [alwajeed.com](http://alwajeed.com) | Active |
+| 37 | [buyblendbd.com](http://buyblendbd.com) | Active |
+| 38 | [crazycartz.com](http://crazycartz.com) | Active |
+| 39 | [dotbd24.com](http://dotbd24.com) | Active |
+| 40 | [esopno.com](http://esopno.com) | Active |
+| 41 | [flymartvaly.com](http://flymartvaly.com) | Active |
+| 42 | [farukonlineshop.com](http://farukonlineshop.com) | Active |
+| 43 | [growupzonebd.com](http://growupzonebd.com) | Active |
+| 44 | [homeneedsbd.com](http://homeneedsbd.com) | Active |
+| 45 | [lalarkap.com](http://lalarkap.com) | Active |
+| 46 | [liberaltradersbd.com](http://liberaltradersbd.com) | Active |
+| 47 | [makprobd.com](http://makprobd.com) | Active |
+| 48 | [malashop24.com](http://malashop24.com) | Active |
+| 49 | [monpurabazar.com](http://monpurabazar.com) | Active |
+| 50 | [mrtshop24.com](http://mrtshop24.com) | Active |
+| 51 | [myriadmartt.com](http://myriadmartt.com) | Active |
+| 52 | [nhindustrybd.com](http://nhindustrybd.com) | Active |
+| 53 | [onekkichobd.com](http://onekkichobd.com) | Active |
+| 54 | [optionbd24.com](http://optionbd24.com) | Active |
+| 55 | [piuraonlineshop.com](http://piuraonlineshop.com) | Active |
+| 56 | [pureneedbd.com](http://pureneedbd.com) | Active |
+| 57 | [racebdshopping.com](http://racebdshopping.com) | Active |
+| 58 | [knakata.com](http://knakata.com) | Failed |
+| 59 | [ouroxa.com](http://ouroxa.com) | Active |
+| 60 | [shopnerdokanbd.com](http://shopnerdokanbd.com) | Failed |
+| 61 | [ayatcollection.com](http://ayatcollection.com) | Active |
+| 62 | [comboshoppingbd.com](http://comboshoppingbd.com) | Active |
+| 63 | [djkshop.com](http://djkshop.com) | Active |
