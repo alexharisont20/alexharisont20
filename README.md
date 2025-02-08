@@ -254,53 +254,56 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
+**Total Deployments:** 49
 
- - [scom1.cyber32.net](https://scom1.cyber32.net)
- - [kalbtradebd.com](https://kalbtradebd.com)
- - [icchabd.com](https://icchabd.com)
- - [priyomarket.com](https://priyomarket.com)
- - [jarifmart.com](https://jarifmart.com)
- - [bsbazarbd.com](https://bsbazarbd.com)
- - [iuddokta.com](https://iuddokta.com)
- - [kroymela.com](https://kroymela.com)
- - [bagstorebd.com](https://bagstorebd.com)
- - [smbazarbd.com](https://smbazarbd.com)
- - [ramboshopping.com](https://ramboshopping.com)
- - [bikroyjogot.com](https://bikroyjogot.com)
- - [netc24.com](https://netc24.com)
- - [honestshop24.com](https://honestshop24.com)
- - [emaxbd.com](https://emaxbd.com)
- - [asell.com.bd](https://asell.com.bd)
- - [banglashop24.com](https://banglashop24.com)
- - [ibnatbd.com](https://ibnatbd.com)
- - [nababazar.com](https://nababazar.com)
- - [arafshoppingbd.com](https://arafshoppingbd.com)
- - [ecom.sebaitsolutions.com](https://ecom.sebaitsolutions.com)
- - [akshopbd.com](https://akshopbd.com)
- - [alambazar.com](https://alambazar.com)
- - [alwajeed.com](https://alwajeed.com)
- - [buyblendbd.com](https://buyblendbd.com)
- - [crazycartz.com](https://crazycartz.com)
- - [dotbd24.com](https://dotbd24.com)
- - [esopno.com](https://esopno.com)
- - [flymartvaly.com](https://flymartvaly.com)
- - [farukonlineshop.com](https://farukonlineshop.com)
- - [growupzonebd.com](https://growupzonebd.com)
- - [homeneedsbd.com](https://homeneedsbd.com)
- - [lalarkap.com](https://lalarkap.com)
- - [liberaltradersbd.com](https://liberaltradersbd.com)
- - [makprobd.com](https://makprobd.com)
- - [malashop24.com](https://malashop24.com)
- - [monpurabazar.com](https://monpurabazar.com)
- - [mrtshop24.com](https://mrtshop24.com)
- - [myriadmartt.com](https://myriadmartt.com)
- - [nhindustrybd.com](https://nhindustrybd.com)
- - [onekkichobd.com](https://onekkichobd.com)
- - [optionbd24.com](https://optionbd24.com)
- - [piuraonlineshop.com](https://piuraonlineshop.com)
- - [pureneedbd.com](https://pureneedbd.com)
- - [racebdshopping.com](https://racebdshopping.com)
- - [ouroxa.com](https://ouroxa.com)
- - [ayatcollection.com](https://ayatcollection.com)
- - [comboshoppingbd.com](https://comboshoppingbd.com)
- - [djkshop.com](https://djkshop.com)
+| # | Domain |
+|---|--------|
+| 1 | [scom1.cyber32.net](http://scom1.cyber32.net) |
+| 2 | [kalbtradebd.com](http://kalbtradebd.com) |
+| 3 | [icchabd.com](http://icchabd.com) |
+| 4 | [priyomarket.com](http://priyomarket.com) |
+| 5 | [jarifmart.com](http://jarifmart.com) |
+| 6 | [bsbazarbd.com](http://bsbazarbd.com) |
+| 7 | [iuddokta.com](http://iuddokta.com) |
+| 8 | [kroymela.com](http://kroymela.com) |
+| 9 | [bagstorebd.com](http://bagstorebd.com) |
+| 10 | [smbazarbd.com](http://smbazarbd.com) |
+| 11 | [ramboshopping.com](http://ramboshopping.com) |
+| 12 | [bikroyjogot.com](http://bikroyjogot.com) |
+| 13 | [netc24.com](http://netc24.com) |
+| 14 | [honestshop24.com](http://honestshop24.com) |
+| 15 | [emaxbd.com](http://emaxbd.com) |
+| 16 | [asell.com.bd](http://asell.com.bd) |
+| 17 | [banglashop24.com](http://banglashop24.com) |
+| 18 | [ibnatbd.com](http://ibnatbd.com) |
+| 19 | [nababazar.com](http://nababazar.com) |
+| 20 | [arafshoppingbd.com](http://arafshoppingbd.com) |
+| 21 | [ecom.sebaitsolutions.com](http://ecom.sebaitsolutions.com) |
+| 22 | [akshopbd.com](http://akshopbd.com) |
+| 23 | [alambazar.com](http://alambazar.com) |
+| 24 | [alwajeed.com](http://alwajeed.com) |
+| 25 | [buyblendbd.com](http://buyblendbd.com) |
+| 26 | [crazycartz.com](http://crazycartz.com) |
+| 27 | [dotbd24.com](http://dotbd24.com) |
+| 28 | [esopno.com](http://esopno.com) |
+| 29 | [flymartvaly.com](http://flymartvaly.com) |
+| 30 | [farukonlineshop.com](http://farukonlineshop.com) |
+| 31 | [growupzonebd.com](http://growupzonebd.com) |
+| 32 | [homeneedsbd.com](http://homeneedsbd.com) |
+| 33 | [lalarkap.com](http://lalarkap.com) |
+| 34 | [liberaltradersbd.com](http://liberaltradersbd.com) |
+| 35 | [makprobd.com](http://makprobd.com) |
+| 36 | [malashop24.com](http://malashop24.com) |
+| 37 | [monpurabazar.com](http://monpurabazar.com) |
+| 38 | [mrtshop24.com](http://mrtshop24.com) |
+| 39 | [myriadmartt.com](http://myriadmartt.com) |
+| 40 | [nhindustrybd.com](http://nhindustrybd.com) |
+| 41 | [onekkichobd.com](http://onekkichobd.com) |
+| 42 | [optionbd24.com](http://optionbd24.com) |
+| 43 | [piuraonlineshop.com](http://piuraonlineshop.com) |
+| 44 | [pureneedbd.com](http://pureneedbd.com) |
+| 45 | [racebdshopping.com](http://racebdshopping.com) |
+| 46 | [ouroxa.com](http://ouroxa.com) |
+| 47 | [ayatcollection.com](http://ayatcollection.com) |
+| 48 | [comboshoppingbd.com](http://comboshoppingbd.com) |
+| 49 | [djkshop.com](http://djkshop.com) |
