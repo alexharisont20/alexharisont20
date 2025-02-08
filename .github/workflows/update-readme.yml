@@ -22,13 +22,16 @@ jobs:
           DEPLOYMENTS=$(echo "$RESPONSE" | jq -r '.[].domain')
           COUNT=$(echo "$DEPLOYMENTS" | wc -l)
           
+          # Get current time in Asia/Dhaka timezone
+          LAST_UPDATED=$(TZ=Asia/Dhaka date +"%Y-%m-%d %H:%M:%S Asia/Dhaka")
+          
           if [ -z "$RESPONSE" ] || [ "$RESPONSE" == "[]" ]; then
             echo "No active domains found. Exiting."
             exit 1
           fi
 
-          echo "## Active Deployments" >> domains.md
-          echo "**Total Deployments:** $COUNT" >> domains.md
+          echo "## Active Deployments: $COUNT [currently live]" >> domains.md
+          echo "_Last updated: **$LAST_UPDATED**_" >> README.md
           echo "" >> domains.md
           echo "| # | Domain |" >> domains.md
           echo "|---|--------|" >> domains.md
