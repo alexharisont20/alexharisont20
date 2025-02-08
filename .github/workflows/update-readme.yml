@@ -35,13 +35,13 @@ jobs:
           echo "" >> domains.md
           echo "_Last updated: **$LAST_UPDATED**_" >> domains.md
           echo "" >> domains.md
-          echo "| # | Domain |" >> domains.md
-          echo "|---|--------|" >> domains.md
+          echo "| # | Domain | Status |" >> domains.md
+          echo "|---|--------|--------|" >> domains.md
           i=1
-          for domain in $DEPLOYMENTS; do
-            echo "| $i | [$domain](http://$domain) |" >> domains.md
+          while read -r domain status; do
+            echo "| $i | [$domain](http://$domain) | $status |" >> domains.md
             i=$((i + 1))
-          done
+          done <<< "$DEPLOYMENTS"
 
       - name: Update README.md
         run: |
