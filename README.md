@@ -254,8 +254,8 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 1878{\color{red}49}1878 domains are live now
-_Last updated: **2025-02-08 14:58:27 Asia/Dhaka**_
+These 🔥 $${\color{red}49}$$ domains are live now
+_Last updated: **2025-02-08 15:01:44 Asia/Dhaka**_
 
 | # | Domain |
 |---|--------|
