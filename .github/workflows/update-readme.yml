@@ -17,15 +17,26 @@ jobs:
         run: |
           API_URL="https://sites.cyber32.net/api/sites?status=active"
           RESPONSE=$(curl -s "$API_URL")
+
+          # Extract domains and count
+          DEPLOYMENTS=$(echo "$RESPONSE" | jq -r '.[].domain')
+          COUNT=$(echo "$DEPLOYMENTS" | wc -l)
           
           if [ -z "$RESPONSE" ] || [ "$RESPONSE" == "[]" ]; then
             echo "No active domains found. Exiting."
             exit 1
           fi
 
-          echo "## Active Deployments" > domains.md
+          echo "## Active Deployments" >> domains.md
+          echo "**Total Deployments:** $COUNT" >> domains.md
           echo "" >> domains.md
-          echo "$RESPONSE" | jq -r '.[] | " - [\(.domain)](https://\(.domain))"' >> domains.md
+          echo "| # | Domain |" >> domains.md
+          echo "|---|--------|" >> domains.md
+          i=1
+          for domain in $DEPLOYMENTS; do
+            echo "| $i | [$domain](http://$domain) |" >> domains.md
+            i=$((i + 1))
+          done
 
       - name: Update README.md
         run: |
