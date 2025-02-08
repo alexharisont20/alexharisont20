@@ -18,8 +18,8 @@ jobs:
           API_URL="https://sites.cyber32.net/api/sites?status=active"
           RESPONSE=$(curl -s "$API_URL")
 
-          # Extract domains and count
-          DEPLOYMENTS=$(echo "$RESPONSE" | jq -r '.[].domain')
+          # Extract domains, statuses, and count
+          DEPLOYMENTS=$(echo "$RESPONSE" | jq -r '.[] | "\(.domain) \(.status)"')
           COUNT=$(echo "$DEPLOYMENTS" | wc -l)
           
           # Get current time in Asia/Dhaka timezone
