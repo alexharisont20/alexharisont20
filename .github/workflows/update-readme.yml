@@ -31,7 +31,8 @@ jobs:
           fi
 
           echo "## Active Deployments" >> domains.md
-          echo -e "These 🔥 \$\${\color{red}$COUNT}\$\$ domains are live now\n" >> domains.md
+          echo "These 🔥 \$\${\color{red}$COUNT}\$\$ domains are live now" >> domains.md
+          echo "" >> domains.md
           echo "_Last updated: **$LAST_UPDATED**_" >> domains.md
           echo "" >> domains.md
           echo "| # | Domain |" >> domains.md
