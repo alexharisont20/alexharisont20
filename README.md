@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}229}$$ 🔥 domains are live now
+These 🔥 $${\color{red}230}$$ 🔥 domains are live now
 
-_Last updated: **2025-02-15 01:12:24 Asia/Dhaka**_
+_Last updated: **2025-02-15 01:26:07 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -435,33 +435,33 @@ _Last updated: **2025-02-15 01:12:24 Asia/Dhaka**_
 | 173 | [sweetybazarbd.com](http://sweetybazarbd.com) | Active |
 | 174 | [alphacarebd.com](http://alphacarebd.com) | Active |
 | 175 | [rhmartbd.com](http://rhmartbd.com) | Active |
-| 176 | [ariyaonlineshop.com](http://ariyaonlineshop.com) | Active |
-| 177 | [evergreenbd24.com](http://evergreenbd24.com) | Active |
-| 178 | [merazonlineshop.com](http://merazonlineshop.com) | Active |
-| 179 | [rksonlinemart.com](http://rksonlinemart.com) | Active |
-| 180 | [ayeshaonlinemart.com](http://ayeshaonlinemart.com) | Active |
-| 181 | [fsbemart.com](http://fsbemart.com) | Active |
-| 182 | [mjonlinemart.com](http://mjonlinemart.com) | Active |
-| 183 | [rowja.com](http://rowja.com) | Active |
-| 184 | [trustedsellerbd.com](http://trustedsellerbd.com) | Active |
-| 185 | [bestebazar.com](http://bestebazar.com) | Active |
-| 186 | [gooddealbdshop.com](http://gooddealbdshop.com) | Active |
-| 187 | [modernmart24.com](http://modernmart24.com) | Active |
-| 188 | [rrdigitalshop.com](http://rrdigitalshop.com) | Active |
-| 189 | [binimoymartbd.com](http://binimoymartbd.com) | Active |
-| 190 | [greenbanglaonlineshop.com](http://greenbanglaonlineshop.com) | Active |
-| 191 | [muniyaonlineshop.com](http://muniyaonlineshop.com) | Active |
-| 192 | [rremart.com](http://rremart.com) | Active |
-| 193 | [zaharatbusinessmart.com](http://zaharatbusinessmart.com) | Active |
-| 194 | [bismillaheshop.com](http://bismillaheshop.com) | Active |
-| 195 | [helloshoppingbd24.com](http://helloshoppingbd24.com) | Active |
-| 196 | [nadishaonlineshop.com](http://nadishaonlineshop.com) | Active |
-| 197 | [shahinonlinezone.com](http://shahinonlinezone.com) | Active |
-| 198 | [zamanenterprisebd.com](http://zamanenterprisebd.com) | Active |
-| 199 | [blackstoneeshop.com](http://blackstoneeshop.com) | Active |
-| 200 | [horekmallbd.com](http://horekmallbd.com) | Active |
-| 201 | [nazmulonlinemart.com](http://nazmulonlinemart.com) | Active |
-| 202 | [sionlineshop.com](http://sionlineshop.com) | Active |
+| 176 | [sweetybazar.com](http://sweetybazar.com) | Active |
+| 177 | [ariyaonlineshop.com](http://ariyaonlineshop.com) | Active |
+| 178 | [evergreenbd24.com](http://evergreenbd24.com) | Active |
+| 179 | [merazonlineshop.com](http://merazonlineshop.com) | Active |
+| 180 | [rksonlinemart.com](http://rksonlinemart.com) | Active |
+| 181 | [ayeshaonlinemart.com](http://ayeshaonlinemart.com) | Active |
+| 182 | [fsbemart.com](http://fsbemart.com) | Active |
+| 183 | [mjonlinemart.com](http://mjonlinemart.com) | Active |
+| 184 | [rowja.com](http://rowja.com) | Active |
+| 185 | [trustedsellerbd.com](http://trustedsellerbd.com) | Active |
+| 186 | [bestebazar.com](http://bestebazar.com) | Active |
+| 187 | [gooddealbdshop.com](http://gooddealbdshop.com) | Active |
+| 188 | [modernmart24.com](http://modernmart24.com) | Active |
+| 189 | [rrdigitalshop.com](http://rrdigitalshop.com) | Active |
+| 190 | [binimoymartbd.com](http://binimoymartbd.com) | Active |
+| 191 | [greenbanglaonlineshop.com](http://greenbanglaonlineshop.com) | Active |
+| 192 | [muniyaonlineshop.com](http://muniyaonlineshop.com) | Active |
+| 193 | [rremart.com](http://rremart.com) | Active |
+| 194 | [zaharatbusinessmart.com](http://zaharatbusinessmart.com) | Active |
+| 195 | [bismillaheshop.com](http://bismillaheshop.com) | Active |
+| 196 | [helloshoppingbd24.com](http://helloshoppingbd24.com) | Active |
+| 197 | [nadishaonlineshop.com](http://nadishaonlineshop.com) | Active |
+| 198 | [shahinonlinezone.com](http://shahinonlinezone.com) | Active |
+| 199 | [zamanenterprisebd.com](http://zamanenterprisebd.com) | Active |
+| 200 | [blackstoneeshop.com](http://blackstoneeshop.com) | Active |
+| 201 | [horekmallbd.com](http://horekmallbd.com) | Active |
+| 202 | [nazmulonlinemart.com](http://nazmulonlinemart.com) | Active |
 | 203 | [zmuniquegallery.com](http://zmuniquegallery.com) | Active |
 | 204 | [bondhonbazar04.com](http://bondhonbazar04.com) | Active |
 | 205 | [jannatbusinessmart.com](http://jannatbusinessmart.com) | Active |
@@ -489,3 +489,4 @@ _Last updated: **2025-02-15 01:12:24 Asia/Dhaka**_
 | 227 | [homazzshop.com](http://homazzshop.com) | Active |
 | 228 | [ikramart.com](http://ikramart.com) | Active |
 | 229 | [asbabbd.com](http://asbabbd.com) | Active |
+| 230 | [bazarbababd.com](http://bazarbababd.com) | Active |
