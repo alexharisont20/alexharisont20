@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}230}$$ 🔥 domains are live now
 
-_Last updated: **2025-02-15 01:51:41 Asia/Dhaka**_
+_Last updated: **2025-02-15 02:15:56 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -484,9 +484,9 @@ _Last updated: **2025-02-15 01:51:41 Asia/Dhaka**_
 | 222 | [adhunikeshop.com](http://adhunikeshop.com) | Active |
 | 223 | [cncemart.com](http://cncemart.com) | Active |
 | 224 | [halalbusinessbd.com](http://halalbusinessbd.com) | Active |
-| 225 | [akandamart.com](http://akandamart.com) | Active |
-| 226 | [holybazar24.com](http://holybazar24.com) | Active |
-| 227 | [homazzshop.com](http://homazzshop.com) | Active |
-| 228 | [ikramart.com](http://ikramart.com) | Active |
-| 229 | [asbabbd.com](http://asbabbd.com) | Active |
-| 230 | [bazarbababd.com](http://bazarbababd.com) | Active |
+| 225 | [sohozebazar.com](http://sohozebazar.com) | Active |
+| 226 | [akandamart.com](http://akandamart.com) | Active |
+| 227 | [holybazar24.com](http://holybazar24.com) | Active |
+| 228 | [homazzshop.com](http://homazzshop.com) | Active |
+| 229 | [ikramart.com](http://ikramart.com) | Active |
+| 230 | [asbabbd.com](http://asbabbd.com) | Active |
