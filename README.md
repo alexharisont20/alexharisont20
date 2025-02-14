@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}228}$$ 🔥 domains are live now
+These 🔥 $${\color{red}227}$$ 🔥 domains are live now
 
-_Last updated: **2025-02-14 18:58:01 Asia/Dhaka**_
+_Last updated: **2025-02-14 19:28:21 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -487,4 +487,3 @@ _Last updated: **2025-02-14 18:58:01 Asia/Dhaka**_
 | 225 | [sohozebazar.com](http://sohozebazar.com) | Active |
 | 226 | [akandamart.com](http://akandamart.com) | Active |
 | 227 | [holybazar24.com](http://holybazar24.com) | Active |
-| 228 | [homazzshop.com](http://homazzshop.com) | Active |
