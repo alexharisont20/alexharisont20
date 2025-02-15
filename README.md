@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}232}$$ 🔥 domains are live now
+These 🔥 $${\color{red}233}$$ 🔥 domains are live now
 
-_Last updated: **2025-02-16 01:58:59 Asia/Dhaka**_
+_Last updated: **2025-02-16 02:23:29 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -491,4 +491,5 @@ _Last updated: **2025-02-16 01:58:59 Asia/Dhaka**_
 | 229 | [homazzshop.com](http://homazzshop.com) | Active |
 | 230 | [ikramart.com](http://ikramart.com) | Active |
 | 231 | [asbabbd.com](http://asbabbd.com) | Active |
-| 232 | [mayerduabd.com](http://mayerduabd.com) | Active |
+| 232 | [bazarbababd.com](http://bazarbababd.com) | Active |
+| 233 | [mayerduabd.com](http://mayerduabd.com) | Active |
