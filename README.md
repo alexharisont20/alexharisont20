@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}249}$$ 🔥 domains are live now
+These 🔥 $${\color{red}252}$$ 🔥 domains are live now
 
-_Last updated: **2025-03-12 14:32:21 Asia/Dhaka**_
+_Last updated: **2025-03-12 14:49:55 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -509,3 +509,6 @@ _Last updated: **2025-03-12 14:32:21 Asia/Dhaka**_
 | 247 | [muajeshop.com](http://muajeshop.com) | Active |
 | 248 | [fatemashopbd.com](http://fatemashopbd.com) | Active |
 | 249 | [kidsneedsbd.net](http://kidsneedsbd.net) | Active |
+| 250 | [praptyorganic.com](http://praptyorganic.com) | Active |
+| 251 | [phindabd.com](http://phindabd.com) | Active |
+| 252 | [wfashopbd.com](http://wfashopbd.com) | Active |
