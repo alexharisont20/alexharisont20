@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}253}$$ 🔥 domains are live now
 
-_Last updated: **2025-03-15 12:54:52 Asia/Dhaka**_
+_Last updated: **2025-03-15 13:19:49 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -512,4 +512,4 @@ _Last updated: **2025-03-15 12:54:52 Asia/Dhaka**_
 | 250 | [praptyorganic.com](http://praptyorganic.com) | Active |
 | 251 | [phindabd.com](http://phindabd.com) | Active |
 | 252 | [wfashopbd.com](http://wfashopbd.com) | Active |
-| 253 | [sunnahtexbd.com](http://sunnahtexbd.com) | Active |
+| 253 | [gazipurbazarbd.com](http://gazipurbazarbd.com) | Active |
