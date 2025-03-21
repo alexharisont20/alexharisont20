@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}259}$$ 🔥 domains are live now
+These 🔥 $${\color{red}262}$$ 🔥 domains are live now
 
-_Last updated: **2025-03-22 01:22:22 Asia/Dhaka**_
+_Last updated: **2025-03-22 01:36:23 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -519,3 +519,6 @@ _Last updated: **2025-03-22 01:22:22 Asia/Dhaka**_
 | 257 | [runakunja.com](http://runakunja.com) | Active |
 | 258 | [orinshop.com](http://orinshop.com) | Active |
 | 259 | [lifestyleshoppingbd.com](http://lifestyleshoppingbd.com) | Active |
+| 260 | [quickvaly.com](http://quickvaly.com) | Active |
+| 261 | [ahbemart.com](http://ahbemart.com) | Active |
+| 262 | [smartshopovertop.com](http://smartshopovertop.com) | Active |
