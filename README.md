@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}263}$$ 🔥 domains are live now
+These 🔥 $${\color{red}261}$$ 🔥 domains are live now
 
-_Last updated: **2025-04-18 12:52:55 Asia/Dhaka**_
+_Last updated: **2025-04-18 13:19:06 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -475,51 +475,49 @@ _Last updated: **2025-04-18 12:52:55 Asia/Dhaka**_
 | 213 | [tsonlinebd.com](http://tsonlinebd.com) | Active |
 | 214 | [adhunikeshop.com](http://adhunikeshop.com) | Active |
 | 215 | [cncemart.com](http://cncemart.com) | Active |
-| 216 | [halalbusinessbd.com](http://halalbusinessbd.com) | Active |
-| 217 | [sohozebazar.com](http://sohozebazar.com) | Active |
-| 218 | [akandamart.com](http://akandamart.com) | Active |
-| 219 | [holybazar24.com](http://holybazar24.com) | Active |
-| 220 | [homazzshop.com](http://homazzshop.com) | Active |
-| 221 | [ikramart.com](http://ikramart.com) | Active |
-| 222 | [asbabbd.com](http://asbabbd.com) | Active |
-| 223 | [bazarbababd.com](http://bazarbababd.com) | Active |
-| 224 | [mayerduabd.com](http://mayerduabd.com) | Active |
-| 225 | [kroyjogot24.com](http://kroyjogot24.com) | Active |
-| 226 | [dailyponnobd.com](http://dailyponnobd.com) | Active |
-| 227 | [easyebazar.com](http://easyebazar.com) | Active |
-| 228 | [lulubazar24.com](http://lulubazar24.com) | Active |
-| 229 | [opushopbd.com](http://opushopbd.com) | Active |
-| 230 | [arohionlineshop.com](http://arohionlineshop.com) | Active |
-| 231 | [graminbazar24.com](http://graminbazar24.com) | Active |
-| 232 | [chinabdbazar.com](http://chinabdbazar.com) | Active |
-| 233 | [tarakuthir.com](http://tarakuthir.com) | Active |
-| 234 | [alaqsaemart.com](http://alaqsaemart.com) | Active |
-| 235 | [sugondhashop.com](http://sugondhashop.com) | Active |
-| 236 | [sultanshopbd.com](http://sultanshopbd.com) | Active |
-| 237 | [jarinshop.com](http://jarinshop.com) | Active |
-| 238 | [naharemart.com](http://naharemart.com) | Active |
-| 239 | [shephalistore.com](http://shephalistore.com) | Active |
-| 240 | [realgreenbd.com](http://realgreenbd.com) | Active |
-| 241 | [bmconlinemart.com](http://bmconlinemart.com) | Active |
-| 242 | [fashionbaribd.com](http://fashionbaribd.com) | Active |
-| 243 | [muajeshop.com](http://muajeshop.com) | Active |
-| 244 | [fatemashopbd.com](http://fatemashopbd.com) | Active |
-| 245 | [kidsneedsbd.net](http://kidsneedsbd.net) | Active |
-| 246 | [praptyorganic.com](http://praptyorganic.com) | Active |
-| 247 | [phindabd.com](http://phindabd.com) | Active |
-| 248 | [wfashopbd.com](http://wfashopbd.com) | Active |
-| 249 | [gazipurbazarbd.com](http://gazipurbazarbd.com) | Active |
-| 250 | [sunnahtexbd.com](http://sunnahtexbd.com) | Active |
-| 251 | [tajbusinesspoint.com](http://tajbusinesspoint.com) | Active |
-| 252 | [tukitaki24.com](http://tukitaki24.com) | Active |
-| 253 | [radiantbazar.com](http://radiantbazar.com) | Active |
-| 254 | [runakunja.com](http://runakunja.com) | Active |
-| 255 | [orinshop.com](http://orinshop.com) | Active |
-| 256 | [lifestyleshoppingbd.com](http://lifestyleshoppingbd.com) | Active |
-| 257 | [quickvaly.com](http://quickvaly.com) | Active |
-| 258 | [ahbemart.com](http://ahbemart.com) | Active |
-| 259 | [smartshopovertop.com](http://smartshopovertop.com) | Active |
-| 260 | [shoppingmela24.com](http://shoppingmela24.com) | Active |
-| 261 | [almustaqimenterprise.com](http://almustaqimenterprise.com) | Active |
-| 262 | [welcomezonebd.com](http://welcomezonebd.com) | Active |
-| 263 | [fairmartzone.com](http://fairmartzone.com) | Active |
+| 216 | [sohozebazar.com](http://sohozebazar.com) | Active |
+| 217 | [akandamart.com](http://akandamart.com) | Active |
+| 218 | [homazzshop.com](http://homazzshop.com) | Active |
+| 219 | [ikramart.com](http://ikramart.com) | Active |
+| 220 | [asbabbd.com](http://asbabbd.com) | Active |
+| 221 | [mayerduabd.com](http://mayerduabd.com) | Active |
+| 222 | [kroyjogot24.com](http://kroyjogot24.com) | Active |
+| 223 | [dailyponnobd.com](http://dailyponnobd.com) | Active |
+| 224 | [easyebazar.com](http://easyebazar.com) | Active |
+| 225 | [lulubazar24.com](http://lulubazar24.com) | Active |
+| 226 | [opushopbd.com](http://opushopbd.com) | Active |
+| 227 | [arohionlineshop.com](http://arohionlineshop.com) | Active |
+| 228 | [graminbazar24.com](http://graminbazar24.com) | Active |
+| 229 | [chinabdbazar.com](http://chinabdbazar.com) | Active |
+| 230 | [tarakuthir.com](http://tarakuthir.com) | Active |
+| 231 | [alaqsaemart.com](http://alaqsaemart.com) | Active |
+| 232 | [sugondhashop.com](http://sugondhashop.com) | Active |
+| 233 | [sultanshopbd.com](http://sultanshopbd.com) | Active |
+| 234 | [jarinshop.com](http://jarinshop.com) | Active |
+| 235 | [naharemart.com](http://naharemart.com) | Active |
+| 236 | [shephalistore.com](http://shephalistore.com) | Active |
+| 237 | [realgreenbd.com](http://realgreenbd.com) | Active |
+| 238 | [bmconlinemart.com](http://bmconlinemart.com) | Active |
+| 239 | [fashionbaribd.com](http://fashionbaribd.com) | Active |
+| 240 | [muajeshop.com](http://muajeshop.com) | Active |
+| 241 | [fatemashopbd.com](http://fatemashopbd.com) | Active |
+| 242 | [kidsneedsbd.net](http://kidsneedsbd.net) | Active |
+| 243 | [praptyorganic.com](http://praptyorganic.com) | Active |
+| 244 | [phindabd.com](http://phindabd.com) | Active |
+| 245 | [wfashopbd.com](http://wfashopbd.com) | Active |
+| 246 | [gazipurbazarbd.com](http://gazipurbazarbd.com) | Active |
+| 247 | [sunnahtexbd.com](http://sunnahtexbd.com) | Active |
+| 248 | [tajbusinesspoint.com](http://tajbusinesspoint.com) | Active |
+| 249 | [tukitaki24.com](http://tukitaki24.com) | Active |
+| 250 | [radiantbazar.com](http://radiantbazar.com) | Active |
+| 251 | [runakunja.com](http://runakunja.com) | Active |
+| 252 | [orinshop.com](http://orinshop.com) | Active |
+| 253 | [lifestyleshoppingbd.com](http://lifestyleshoppingbd.com) | Active |
+| 254 | [quickvaly.com](http://quickvaly.com) | Active |
+| 255 | [ahbemart.com](http://ahbemart.com) | Active |
+| 256 | [smartshopovertop.com](http://smartshopovertop.com) | Active |
+| 257 | [shoppingmela24.com](http://shoppingmela24.com) | Active |
+| 258 | [almustaqimenterprise.com](http://almustaqimenterprise.com) | Active |
+| 259 | [welcomezonebd.com](http://welcomezonebd.com) | Active |
+| 260 | [fairmartzone.com](http://fairmartzone.com) | Active |
+| 261 | [astha-24.com](http://astha-24.com) | Active |
