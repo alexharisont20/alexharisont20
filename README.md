@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}275}$$ 🔥 domains are live now
 
-_Last updated: **2025-05-03 15:00:12 Asia/Dhaka**_
+_Last updated: **2025-05-03 15:25:45 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -533,5 +533,5 @@ _Last updated: **2025-05-03 15:00:12 Asia/Dhaka**_
 | 271 | [zareefshop24.com](http://zareefshop24.com) | Active |
 | 272 | [khanemart.com](http://khanemart.com) | Active |
 | 273 | [bestbdbuy.com](http://bestbdbuy.com) | Active |
-| 274 | [fiazhat.com](http://fiazhat.com) | Active |
-| 275 | [purebazaarbd.com](http://purebazaarbd.com) | Active |
+| 274 | [purebazaarbd.com](http://purebazaarbd.com) | Active |
+| 275 | [fiazhat.com](http://fiazhat.com) | Active |
