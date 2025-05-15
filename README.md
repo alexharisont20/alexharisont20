@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}295}$$ 🔥 domains are live now
+These 🔥 $${\color{red}303}$$ 🔥 domains are live now
 
-_Last updated: **2025-05-15 13:54:08 Asia/Dhaka**_
+_Last updated: **2025-05-15 14:30:48 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -555,3 +555,11 @@ _Last updated: **2025-05-15 13:54:08 Asia/Dhaka**_
 | 293 | [tmbazar.com](http://tmbazar.com) | Active |
 | 294 | [nfshop24.com](http://nfshop24.com) | Active |
 | 295 | [kinabe.com](http://kinabe.com) | Active |
+| 296 | [piksybox.com](http://piksybox.com) | Active |
+| 297 | [aponbazaronline.com](http://aponbazaronline.com) | Active |
+| 298 | [bikroy24.com](http://bikroy24.com) | Active |
+| 299 | [rakamaribazar.com](http://rakamaribazar.com) | Active |
+| 300 | [kfmartbd.com](http://kfmartbd.com) | Active |
+| 301 | [proyozonmart.com](http://proyozonmart.com) | Active |
+| 302 | [hiragallery.com](http://hiragallery.com) | Active |
+| 303 | [muskanshop.com](http://muskanshop.com) | Active |
