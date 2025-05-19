@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}278}$$ 🔥 domains are live now
+These 🔥 $${\color{red}281}$$ 🔥 domains are live now
 
-_Last updated: **2025-05-19 12:56:28 Asia/Dhaka**_
+_Last updated: **2025-05-19 13:26:28 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -538,3 +538,6 @@ _Last updated: **2025-05-19 12:56:28 Asia/Dhaka**_
 | 276 | [uniquestall.com](http://uniquestall.com) | Active |
 | 277 | [srsngallery.com](http://srsngallery.com) | Active |
 | 278 | [barkolibd.com](http://barkolibd.com) | Active |
+| 279 | [nittobazarbd.com](http://nittobazarbd.com) | Active |
+| 280 | [nayeembd.com](http://nayeembd.com) | Active |
+| 281 | [shadeenshop.com](http://shadeenshop.com) | Active |
