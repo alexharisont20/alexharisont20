@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}293}$$ 🔥 domains are live now
+These 🔥 $${\color{red}294}$$ 🔥 domains are live now
 
-_Last updated: **2025-06-01 02:16:51 Asia/Dhaka**_
+_Last updated: **2025-06-01 02:35:11 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -549,7 +549,8 @@ _Last updated: **2025-06-01 02:16:51 Asia/Dhaka**_
 | 287 | [siddikshop.com](http://siddikshop.com) | Active |
 | 288 | [premiumeshop.com](http://premiumeshop.com) | Active |
 | 289 | [morevaly.com](http://morevaly.com) | Active |
-| 290 | [gazibdshop.com](http://gazibdshop.com) | Active |
-| 291 | [saimshopbd.com](http://saimshopbd.com) | Active |
-| 292 | [smmart24.com](http://smmart24.com) | Active |
-| 293 | [samiulshop.com](http://samiulshop.com) | Active |
+| 290 | [easybuyingbd.com](http://easybuyingbd.com) | Active |
+| 291 | [gazibdshop.com](http://gazibdshop.com) | Active |
+| 292 | [saimshopbd.com](http://saimshopbd.com) | Active |
+| 293 | [smmart24.com](http://smmart24.com) | Active |
+| 294 | [samiulshop.com](http://samiulshop.com) | Active |
