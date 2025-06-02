@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}302}$$ 🔥 domains are live now
+These 🔥 $${\color{red}307}$$ 🔥 domains are live now
 
-_Last updated: **2025-06-02 13:59:37 Asia/Dhaka**_
+_Last updated: **2025-06-02 14:37:28 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -562,3 +562,8 @@ _Last updated: **2025-06-02 13:59:37 Asia/Dhaka**_
 | 300 | [bdgallery24.com](http://bdgallery24.com) | Active |
 | 301 | [hatym.com](http://hatym.com) | Active |
 | 302 | [dorkarshopbd.com](http://dorkarshopbd.com) | Active |
+| 303 | [nehauniqueshop.com](http://nehauniqueshop.com) | Active |
+| 304 | [mayerduabd.com](http://mayerduabd.com) | Active |
+| 305 | [alphabd24.com](http://alphabd24.com) | Active |
+| 306 | [ayeshaonlinemart.com](http://ayeshaonlinemart.com) | Active |
+| 307 | [nazmulonlinemart.com](http://nazmulonlinemart.com) | Active |
