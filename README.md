@@ -254,20 +254,20 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}315}$$ 🔥 domains are live now
+These 🔥 $${\color{red}314}$$ 🔥 domains are live now
 
-_Last updated: **2025-06-03 22:12:27 Asia/Dhaka**_
+_Last updated: **2025-06-03 22:45:43 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
 | 1 | [scom1.cyber32.net](http://scom1.cyber32.net) | Active |
 | 2 | [priyomarket.com](http://priyomarket.com) | Active |
 | 3 | [iuddokta.com](http://iuddokta.com) | Active |
-| 4 | [ramboshopping.com](http://ramboshopping.com) | Active |
-| 5 | [bikroyjogot.com](http://bikroyjogot.com) | Active |
-| 6 | [honestshop24.com](http://honestshop24.com) | Active |
-| 7 | [emaxbd.com](http://emaxbd.com) | Active |
-| 8 | [asell.com.bd](http://asell.com.bd) | Active |
+| 4 | [kroymela.com](http://kroymela.com) | Active |
+| 5 | [ramboshopping.com](http://ramboshopping.com) | Active |
+| 6 | [bikroyjogot.com](http://bikroyjogot.com) | Active |
+| 7 | [honestshop24.com](http://honestshop24.com) | Active |
+| 8 | [emaxbd.com](http://emaxbd.com) | Active |
 | 9 | [banglashop24.com](http://banglashop24.com) | Active |
 | 10 | [ecom.sebaitsolutions.com](http://ecom.sebaitsolutions.com) | Active |
 | 11 | [alambazar.com](http://alambazar.com) | Active |
@@ -547,31 +547,30 @@ _Last updated: **2025-06-03 22:12:27 Asia/Dhaka**_
 | 285 | [pickmartsbd.com](http://pickmartsbd.com) | Active |
 | 286 | [hilehilibd.com](http://hilehilibd.com) | Active |
 | 287 | [sbemart.com](http://sbemart.com) | Active |
-| 288 | [rupalibazar.com](http://rupalibazar.com) | Active |
-| 289 | [kroybdbazar.com](http://kroybdbazar.com) | Active |
-| 290 | [islamtradersbd.com](http://islamtradersbd.com) | Active |
-| 291 | [shomadhanbazar.com](http://shomadhanbazar.com) | Active |
-| 292 | [deshisell.com](http://deshisell.com) | Active |
-| 293 | [jannatshop.com](http://jannatshop.com) | Active |
-| 294 | [mistyphool.com](http://mistyphool.com) | Active |
-| 295 | [skydream24.com](http://skydream24.com) | Active |
-| 296 | [shopnoemela.com](http://shopnoemela.com) | Active |
-| 297 | [bluemistbd.com](http://bluemistbd.com) | Active |
-| 298 | [shyloop.com](http://shyloop.com) | Active |
-| 299 | [startvaly.com](http://startvaly.com) | Active |
-| 300 | [siddikshop.com](http://siddikshop.com) | Active |
-| 301 | [premiumeshop.com](http://premiumeshop.com) | Active |
-| 302 | [morevaly.com](http://morevaly.com) | Active |
-| 303 | [easybuyingbd.com](http://easybuyingbd.com) | Active |
-| 304 | [gazibdshop.com](http://gazibdshop.com) | Active |
-| 305 | [saimshopbd.com](http://saimshopbd.com) | Active |
-| 306 | [smmart24.com](http://smmart24.com) | Active |
-| 307 | [samiulshop.com](http://samiulshop.com) | Active |
-| 308 | [bdgallery24.com](http://bdgallery24.com) | Active |
-| 309 | [hatym.com](http://hatym.com) | Active |
-| 310 | [dorkarshopbd.com](http://dorkarshopbd.com) | Active |
-| 311 | [nehauniqueshop.com](http://nehauniqueshop.com) | Active |
-| 312 | [mayerduabd.com](http://mayerduabd.com) | Active |
-| 313 | [alphabd24.com](http://alphabd24.com) | Active |
-| 314 | [ayeshaonlinemart.com](http://ayeshaonlinemart.com) | Active |
-| 315 | [nazmulonlinemart.com](http://nazmulonlinemart.com) | Active |
+| 288 | [kroybdbazar.com](http://kroybdbazar.com) | Active |
+| 289 | [islamtradersbd.com](http://islamtradersbd.com) | Active |
+| 290 | [shomadhanbazar.com](http://shomadhanbazar.com) | Active |
+| 291 | [deshisell.com](http://deshisell.com) | Active |
+| 292 | [jannatshop.com](http://jannatshop.com) | Active |
+| 293 | [mistyphool.com](http://mistyphool.com) | Active |
+| 294 | [skydream24.com](http://skydream24.com) | Active |
+| 295 | [shopnoemela.com](http://shopnoemela.com) | Active |
+| 296 | [bluemistbd.com](http://bluemistbd.com) | Active |
+| 297 | [shyloop.com](http://shyloop.com) | Active |
+| 298 | [startvaly.com](http://startvaly.com) | Active |
+| 299 | [siddikshop.com](http://siddikshop.com) | Active |
+| 300 | [premiumeshop.com](http://premiumeshop.com) | Active |
+| 301 | [morevaly.com](http://morevaly.com) | Active |
+| 302 | [easybuyingbd.com](http://easybuyingbd.com) | Active |
+| 303 | [gazibdshop.com](http://gazibdshop.com) | Active |
+| 304 | [saimshopbd.com](http://saimshopbd.com) | Active |
+| 305 | [smmart24.com](http://smmart24.com) | Active |
+| 306 | [samiulshop.com](http://samiulshop.com) | Active |
+| 307 | [bdgallery24.com](http://bdgallery24.com) | Active |
+| 308 | [hatym.com](http://hatym.com) | Active |
+| 309 | [dorkarshopbd.com](http://dorkarshopbd.com) | Active |
+| 310 | [nehauniqueshop.com](http://nehauniqueshop.com) | Active |
+| 311 | [mayerduabd.com](http://mayerduabd.com) | Active |
+| 312 | [alphabd24.com](http://alphabd24.com) | Active |
+| 313 | [ayeshaonlinemart.com](http://ayeshaonlinemart.com) | Active |
+| 314 | [nazmulonlinemart.com](http://nazmulonlinemart.com) | Active |
