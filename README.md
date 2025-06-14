@@ -256,16 +256,16 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}315}$$ 🔥 domains are live now
 
-_Last updated: **2025-06-14 14:18:14 Asia/Dhaka**_
+_Last updated: **2025-06-14 14:40:45 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
-| 1 | [scom1.cyber32.net](http://scom1.cyber32.net) | Active |
-| 2 | [priyomarket.com](http://priyomarket.com) | Active |
-| 3 | [iuddokta.com](http://iuddokta.com) | Active |
-| 4 | [kroymela.com](http://kroymela.com) | Active |
-| 5 | [bagstorebd.com](http://bagstorebd.com) | Active |
-| 6 | [smbazarbd.com](http://smbazarbd.com) | Active |
+| 1 | [priyomarket.com](http://priyomarket.com) | Active |
+| 2 | [iuddokta.com](http://iuddokta.com) | Active |
+| 3 | [kroymela.com](http://kroymela.com) | Active |
+| 4 | [bagstorebd.com](http://bagstorebd.com) | Active |
+| 5 | [smbazarbd.com](http://smbazarbd.com) | Active |
+| 6 | [ramboshopping.com](http://ramboshopping.com) | Active |
 | 7 | [bikroyjogot.com](http://bikroyjogot.com) | Active |
 | 8 | [honestshop24.com](http://honestshop24.com) | Active |
 | 9 | [emaxbd.com](http://emaxbd.com) | Active |
