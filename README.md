@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}323}$$ 🔥 domains are live now
+These 🔥 $${\color{red}325}$$ 🔥 domains are live now
 
-_Last updated: **2025-06-18 12:47:17 Asia/Dhaka**_
+_Last updated: **2025-06-18 13:09:30 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -583,3 +583,5 @@ _Last updated: **2025-06-18 12:47:17 Asia/Dhaka**_
 | 321 | [arebazar.com](http://arebazar.com) | Active |
 | 322 | [9starshop.com](http://9starshop.com) | Active |
 | 323 | [sheraponno24.com](http://sheraponno24.com) | Active |
+| 324 | [baraqaah.com](http://baraqaah.com) | Active |
+| 325 | [buybdsell.com](http://buybdsell.com) | Active |
