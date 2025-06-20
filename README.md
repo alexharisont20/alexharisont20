@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}325}$$ 🔥 domains are live now
+These 🔥 $${\color{red}327}$$ 🔥 domains are live now
 
-_Last updated: **2025-06-20 14:55:25 Asia/Dhaka**_
+_Last updated: **2025-06-20 15:28:08 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -585,3 +585,5 @@ _Last updated: **2025-06-20 14:55:25 Asia/Dhaka**_
 | 323 | [sheraponno24.com](http://sheraponno24.com) | Active |
 | 324 | [baraqaah.com](http://baraqaah.com) | Active |
 | 325 | [buybdsell.com](http://buybdsell.com) | Active |
+| 326 | [hamjaeshop.com](http://hamjaeshop.com) | Active |
+| 327 | [kroyebazar.com](http://kroyebazar.com) | Active |
