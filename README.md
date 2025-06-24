@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}333}$$ 🔥 domains are live now
+These 🔥 $${\color{red}334}$$ 🔥 domains are live now
 
-_Last updated: **2025-06-25 01:51:44 Asia/Dhaka**_
+_Last updated: **2025-06-25 02:19:46 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -587,9 +587,10 @@ _Last updated: **2025-06-25 01:51:44 Asia/Dhaka**_
 | 325 | [hamjaeshop.com](http://hamjaeshop.com) | Active |
 | 326 | [kroyebazar.com](http://kroyebazar.com) | Active |
 | 327 | [imransdealbook.com](http://imransdealbook.com) | Active |
-| 328 | [ladybirdsbd.com](http://ladybirdsbd.com) | Active |
-| 329 | [happyemart.com](http://happyemart.com) | Active |
-| 330 | [aminemart.com](http://aminemart.com) | Active |
-| 331 | [angkanmart.com](http://angkanmart.com) | Active |
-| 332 | [taqwaemart.com](http://taqwaemart.com) | Active |
-| 333 | [sylsky.com](http://sylsky.com) | Active |
+| 328 | [bondhonbazar04.com](http://bondhonbazar04.com) | Active |
+| 329 | [ladybirdsbd.com](http://ladybirdsbd.com) | Active |
+| 330 | [happyemart.com](http://happyemart.com) | Active |
+| 331 | [aminemart.com](http://aminemart.com) | Active |
+| 332 | [angkanmart.com](http://angkanmart.com) | Active |
+| 333 | [taqwaemart.com](http://taqwaemart.com) | Active |
+| 334 | [sylsky.com](http://sylsky.com) | Active |
