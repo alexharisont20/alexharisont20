@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}342}$$ 🔥 domains are live now
+These 🔥 $${\color{red}345}$$ 🔥 domains are live now
 
-_Last updated: **2025-07-07 14:20:37 Asia/Dhaka**_
+_Last updated: **2025-07-07 14:49:13 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -602,3 +602,6 @@ _Last updated: **2025-07-07 14:20:37 Asia/Dhaka**_
 | 340 | [afrinsmart.com](http://afrinsmart.com) | Active |
 | 341 | [nihanuhamart.com](http://nihanuhamart.com) | Active |
 | 342 | [mostvaly.com](http://mostvaly.com) | Active |
+| 343 | [mohammademart.com](http://mohammademart.com) | Active |
+| 344 | [swiftcartbd.com](http://swiftcartbd.com) | Active |
+| 345 | [familybdcare.com](http://familybdcare.com) | Active |
