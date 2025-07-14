@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}358}$$ 🔥 domains are live now
+These 🔥 $${\color{red}362}$$ 🔥 domains are live now
 
-_Last updated: **2025-07-14 15:00:10 Asia/Dhaka**_
+_Last updated: **2025-07-14 15:37:52 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -618,3 +618,7 @@ _Last updated: **2025-07-14 15:00:10 Asia/Dhaka**_
 | 356 | [brightsmartshopbd.com](http://brightsmartshopbd.com) | Active |
 | 357 | [tiptopbazar.com](http://tiptopbazar.com) | Active |
 | 358 | [proyojoniyoitem.com](http://proyojoniyoitem.com) | Active |
+| 359 | [mapleemart.com](http://mapleemart.com) | Active |
+| 360 | [citizeneffortltd.com](http://citizeneffortltd.com) | Active |
+| 361 | [uniquevally.com](http://uniquevally.com) | Active |
+| 362 | [rediomart.com](http://rediomart.com) | Active |
