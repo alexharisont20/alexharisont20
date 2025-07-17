@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}364}$$ 🔥 domains are live now
+These 🔥 $${\color{red}369}$$ 🔥 domains are live now
 
-_Last updated: **2025-07-17 11:54:12 Asia/Dhaka**_
+_Last updated: **2025-07-17 12:37:00 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -624,3 +624,8 @@ _Last updated: **2025-07-17 11:54:12 Asia/Dhaka**_
 | 362 | [rediomart.com](http://rediomart.com) | Active |
 | 363 | [annaemart.com](http://annaemart.com) | Active |
 | 364 | [smarthubbd.com](http://smarthubbd.com) | Active |
+| 365 | [digitaleshopbd.com](http://digitaleshopbd.com) | Active |
+| 366 | [buyneedbd.com](http://buyneedbd.com) | Active |
+| 367 | [jublymart.com](http://jublymart.com) | Active |
+| 368 | [nafimart.com](http://nafimart.com) | Active |
+| 369 | [sebaponno.com](http://sebaponno.com) | Active |
