@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}373}$$ 🔥 domains are live now
+These 🔥 $${\color{red}379}$$ 🔥 domains are live now
 
-_Last updated: **2025-07-23 09:22:31 Asia/Dhaka**_
+_Last updated: **2025-07-23 10:24:04 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -633,3 +633,9 @@ _Last updated: **2025-07-23 09:22:31 Asia/Dhaka**_
 | 371 | [anandahut.com](http://anandahut.com) | Active |
 | 372 | [khajera.com](http://khajera.com) | Active |
 | 373 | [mrfmart.com](http://mrfmart.com) | Active |
+| 374 | [bikroybazar24.com](http://bikroybazar24.com) | Active |
+| 375 | [miraemart.com](http://miraemart.com) | Active |
+| 376 | [rokomarijinis.com](http://rokomarijinis.com) | Active |
+| 377 | [3stargallery.com](http://3stargallery.com) | Active |
+| 378 | [bikroybajar.com](http://bikroybajar.com) | Active |
+| 379 | [mienterpriseltd.com](http://mienterpriseltd.com) | Active |
