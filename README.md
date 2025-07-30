@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}370}$$ 🔥 domains are live now
+These 🔥 $${\color{red}373}$$ 🔥 domains are live now
 
-_Last updated: **2025-07-30 09:15:13 Asia/Dhaka**_
+_Last updated: **2025-07-30 10:14:09 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -630,3 +630,6 @@ _Last updated: **2025-07-30 09:15:13 Asia/Dhaka**_
 | 368 | [sunnahshop24.com](http://sunnahshop24.com) | Active |
 | 369 | [auroraemart.com](http://auroraemart.com) | Active |
 | 370 | [neoprotidin.com](http://neoprotidin.com) | Active |
+| 371 | [tabashopping.com](http://tabashopping.com) | Active |
+| 372 | [chintaoff.com](http://chintaoff.com) | Active |
+| 373 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
