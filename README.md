@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}381}$$ 🔥 domains are live now
+These 🔥 $${\color{red}385}$$ 🔥 domains are live now
 
-_Last updated: **2025-08-05 17:58:26 Asia/Dhaka**_
+_Last updated: **2025-08-05 19:04:19 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -641,3 +641,7 @@ _Last updated: **2025-08-05 17:58:26 Asia/Dhaka**_
 | 379 | [alimemart.com](http://alimemart.com) | Active |
 | 380 | [rahmanemart.com](http://rahmanemart.com) | Active |
 | 381 | [rtbdmart.com](http://rtbdmart.com) | Active |
+| 382 | [nayemtrustedshop.com](http://nayemtrustedshop.com) | Active |
+| 383 | [jnjenterprise.com](http://jnjenterprise.com) | Active |
+| 384 | [muktadirmart.com](http://muktadirmart.com) | Active |
+| 385 | [atozebazar.com](http://atozebazar.com) | Active |
