@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}390}$$ 🔥 domains are live now
+These 🔥 $${\color{red}394}$$ 🔥 domains are live now
 
-_Last updated: **2025-08-09 08:17:26 Asia/Dhaka**_
+_Last updated: **2025-08-09 09:35:43 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -650,3 +650,7 @@ _Last updated: **2025-08-09 08:17:26 Asia/Dhaka**_
 | 388 | [bikroyebazar.com](http://bikroyebazar.com) | Active |
 | 389 | [oxenbd.com](http://oxenbd.com) | Active |
 | 390 | [kotusoo.com](http://kotusoo.com) | Active |
+| 391 | [kroybaraka.com](http://kroybaraka.com) | Active |
+| 392 | [shopnohut.com](http://shopnohut.com) | Active |
+| 393 | [absmartshop.com](http://absmartshop.com) | Active |
+| 394 | [rawjaa.com](http://rawjaa.com) | Active |
