@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}396}$$ 🔥 domains are live now
 
-_Last updated: **2025-08-10 18:22:50 Asia/Dhaka**_
+_Last updated: **2025-08-10 19:06:09 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -654,5 +654,5 @@ _Last updated: **2025-08-10 18:22:50 Asia/Dhaka**_
 | 392 | [rawjaa.com](http://rawjaa.com) | Active |
 | 393 | [jsbdmart.com](http://jsbdmart.com) | Active |
 | 394 | [arishshop.com](http://arishshop.com) | Active |
-| 395 | [dhakapet.com](http://dhakapet.com) | Active |
-| 396 | [naturalhealth24.com](http://naturalhealth24.com) | Active |
+| 395 | [naturalhealth24.com](http://naturalhealth24.com) | Active |
+| 396 | [dhakapet.com](http://dhakapet.com) | Active |
