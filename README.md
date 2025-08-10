@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}394}$$ 🔥 domains are live now
+These 🔥 $${\color{red}396}$$ 🔥 domains are live now
 
-_Last updated: **2025-08-10 17:49:18 Asia/Dhaka**_
+_Last updated: **2025-08-10 18:22:50 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -654,3 +654,5 @@ _Last updated: **2025-08-10 17:49:18 Asia/Dhaka**_
 | 392 | [rawjaa.com](http://rawjaa.com) | Active |
 | 393 | [jsbdmart.com](http://jsbdmart.com) | Active |
 | 394 | [arishshop.com](http://arishshop.com) | Active |
+| 395 | [dhakapet.com](http://dhakapet.com) | Active |
+| 396 | [naturalhealth24.com](http://naturalhealth24.com) | Active |
