@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}402}$$ 🔥 domains are live now
+These 🔥 $${\color{red}400}$$ 🔥 domains are live now
 
-_Last updated: **2025-08-12 01:55:37 Asia/Dhaka**_
+_Last updated: **2025-08-12 02:28:01 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -660,5 +660,3 @@ _Last updated: **2025-08-12 01:55:37 Asia/Dhaka**_
 | 398 | [morurjahaj.com](http://morurjahaj.com) | Active |
 | 399 | [rokomaripoint.com](http://rokomaripoint.com) | Active |
 | 400 | [thikana24.com](http://thikana24.com) | Active |
-| 401 | [krishanbd.com](http://krishanbd.com) | Active |
-| 402 | [sylban.com](http://sylban.com) | Active |
