@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}396}$$ 🔥 domains are live now
+These 🔥 $${\color{red}400}$$ 🔥 domains are live now
 
-_Last updated: **2025-08-12 00:38:50 Asia/Dhaka**_
+_Last updated: **2025-08-12 00:59:39 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -656,3 +656,7 @@ _Last updated: **2025-08-12 00:38:50 Asia/Dhaka**_
 | 394 | [arishshop.com](http://arishshop.com) | Active |
 | 395 | [naturalhealth24.com](http://naturalhealth24.com) | Active |
 | 396 | [dhakapet.com](http://dhakapet.com) | Active |
+| 397 | [nobinhat.com](http://nobinhat.com) | Active |
+| 398 | [morurjahaj.com](http://morurjahaj.com) | Active |
+| 399 | [rokomaripoint.com](http://rokomaripoint.com) | Active |
+| 400 | [thikana24.com](http://thikana24.com) | Active |
