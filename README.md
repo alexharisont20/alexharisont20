@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}403}$$ 🔥 domains are live now
+These 🔥 $${\color{red}407}$$ 🔥 domains are live now
 
-_Last updated: **2025-08-15 11:29:31 Asia/Dhaka**_
+_Last updated: **2025-08-15 11:48:05 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -663,3 +663,7 @@ _Last updated: **2025-08-15 11:29:31 Asia/Dhaka**_
 | 401 | [krishanbd.com](http://krishanbd.com) | Active |
 | 402 | [sylban.com](http://sylban.com) | Active |
 | 403 | [kulsummart.com](http://kulsummart.com) | Active |
+| 404 | [nittoponno24.com](http://nittoponno24.com) | Active |
+| 405 | [elecbd.com](http://elecbd.com) | Active |
+| 406 | [buynestsk.online](http://buynestsk.online) | Active |
+| 407 | [clicknbuysk.online](http://clicknbuysk.online) | Active |
