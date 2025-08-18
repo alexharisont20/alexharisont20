@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}408}$$ 🔥 domains are live now
 
-_Last updated: **2025-08-18 14:59:51 Asia/Dhaka**_
+_Last updated: **2025-08-18 15:35:47 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -666,5 +666,5 @@ _Last updated: **2025-08-18 14:59:51 Asia/Dhaka**_
 | 404 | [clicknbuysk.online](http://clicknbuysk.online) | Active |
 | 405 | [narravolve.store](http://narravolve.store) | Active |
 | 406 | [ahnafbd.com](http://ahnafbd.com) | Active |
-| 407 | [sostashodai.com](http://sostashodai.com) | Active |
-| 408 | [kroybari.com](http://kroybari.com) | Active |
+| 407 | [kroybari.com](http://kroybari.com) | Active |
+| 408 | [sostashodai.com](http://sostashodai.com) | Active |
