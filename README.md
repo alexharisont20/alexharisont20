@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}413}$$ 🔥 domains are live now
+These 🔥 $${\color{red}417}$$ 🔥 domains are live now
 
-_Last updated: **2025-08-22 14:57:06 Asia/Dhaka**_
+_Last updated: **2025-08-22 15:28:48 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -673,3 +673,7 @@ _Last updated: **2025-08-22 14:57:06 Asia/Dhaka**_
 | 411 | [minabellabd.com](http://minabellabd.com) | Active |
 | 412 | [hremart.com](http://hremart.com) | Active |
 | 413 | [baharibazar24.com](http://baharibazar24.com) | Active |
+| 414 | [raisanbdmart.com](http://raisanbdmart.com) | Active |
+| 415 | [trendbazar24.com](http://trendbazar24.com) | Active |
+| 416 | [bilasimart.com](http://bilasimart.com) | Active |
+| 417 | [dadabhaimart.com](http://dadabhaimart.com) | Active |
