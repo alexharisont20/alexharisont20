@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}420}$$ 🔥 domains are live now
+These 🔥 $${\color{red}424}$$ 🔥 domains are live now
 
-_Last updated: **2025-08-28 13:53:35 Asia/Dhaka**_
+_Last updated: **2025-08-28 14:28:11 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -680,3 +680,7 @@ _Last updated: **2025-08-28 13:53:35 Asia/Dhaka**_
 | 418 | [anaseshop.com](http://anaseshop.com) | Active |
 | 419 | [nittoponnomela.com](http://nittoponnomela.com) | Active |
 | 420 | [iqbalonlinemart.com](http://iqbalonlinemart.com) | Active |
+| 421 | [trustedbdmart.com](http://trustedbdmart.com) | Active |
+| 422 | [kingofcomputersolution.com](http://kingofcomputersolution.com) | Active |
+| 423 | [nittoponnobazar.com](http://nittoponnobazar.com) | Active |
+| 424 | [shopwisebd.com](http://shopwisebd.com) | Active |
