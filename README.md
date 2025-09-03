@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}374}$$ 🔥 domains are live now
+These 🔥 $${\color{red}378}$$ 🔥 domains are live now
 
-_Last updated: **2025-09-03 11:53:24 Asia/Dhaka**_
+_Last updated: **2025-09-03 12:29:13 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -634,3 +634,7 @@ _Last updated: **2025-09-03 11:53:24 Asia/Dhaka**_
 | 372 | [chineexe.com](http://chineexe.com) | Active |
 | 373 | [gogonmart.com](http://gogonmart.com) | Active |
 | 374 | [etkmart.com](http://etkmart.com) | Active |
+| 375 | [trandytrade.com](http://trandytrade.com) | Active |
+| 376 | [sohozkroy.com](http://sohozkroy.com) | Active |
+| 377 | [ekingdombd.com](http://ekingdombd.com) | Active |
+| 378 | [croymart.com](http://croymart.com) | Active |
