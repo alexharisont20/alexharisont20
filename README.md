@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}433}$$ 🔥 domains are live now
+These 🔥 $${\color{red}436}$$ 🔥 domains are live now
 
-_Last updated: **2025-09-06 16:10:50 Asia/Dhaka**_
+_Last updated: **2025-09-06 16:31:32 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -693,3 +693,6 @@ _Last updated: **2025-09-06 16:10:50 Asia/Dhaka**_
 | 431 | [faceparkbd.com](http://faceparkbd.com) | Active |
 | 432 | [hnemart.com](http://hnemart.com) | Active |
 | 433 | [jannathut.com](http://jannathut.com) | Active |
+| 434 | [shokherebazar.com](http://shokherebazar.com) | Active |
+| 435 | [rienterprise.com](http://rienterprise.com) | Active |
+| 436 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
