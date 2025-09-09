@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}437}$$ 🔥 domains are live now
+These 🔥 $${\color{red}438}$$ 🔥 domains are live now
 
-_Last updated: **2025-09-09 15:57:33 Asia/Dhaka**_
+_Last updated: **2025-09-09 16:29:46 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -697,3 +697,4 @@ _Last updated: **2025-09-09 15:57:33 Asia/Dhaka**_
 | 435 | [barakahairoil.com](http://barakahairoil.com) | Active |
 | 436 | [cleanmasterr.com](http://cleanmasterr.com) | Active |
 | 437 | [reseller.sebaitsolutions.com](http://reseller.sebaitsolutions.com) | Active |
+| 438 | [deshshop24.com](http://deshshop24.com) | Active |
