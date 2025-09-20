@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}441}$$ 🔥 domains are live now
+These 🔥 $${\color{red}442}$$ 🔥 domains are live now
 
-_Last updated: **2025-09-21 00:11:08 Asia/Dhaka**_
+_Last updated: **2025-09-21 00:36:01 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -691,13 +691,14 @@ _Last updated: **2025-09-21 00:11:08 Asia/Dhaka**_
 | 429 | [cleanmasterr.com](http://cleanmasterr.com) | Active |
 | 430 | [reseller.sebaitsolutions.com](http://reseller.sebaitsolutions.com) | Active |
 | 431 | [deshshop24.com](http://deshshop24.com) | Active |
-| 432 | [rupaboron.com](http://rupaboron.com) | Active |
-| 433 | [mienterpriseltd.com](http://mienterpriseltd.com) | Active |
-| 434 | [amarebazar.com](http://amarebazar.com) | Active |
-| 435 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
-| 436 | [digdigonto.com](http://digdigonto.com) | Active |
-| 437 | [arvally.com](http://arvally.com) | Active |
-| 438 | [realsheba.com](http://realsheba.com) | Active |
-| 439 | [sherabazarbd.com](http://sherabazarbd.com) | Active |
-| 440 | [sabehabd.com](http://sabehabd.com) | Active |
-| 441 | [baranbd.com](http://baranbd.com) | Active |
+| 432 | [mienterpriseltd.com](http://mienterpriseltd.com) | Active |
+| 433 | [amarebazar.com](http://amarebazar.com) | Active |
+| 434 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
+| 435 | [digdigonto.com](http://digdigonto.com) | Active |
+| 436 | [arvally.com](http://arvally.com) | Active |
+| 437 | [realsheba.com](http://realsheba.com) | Active |
+| 438 | [sherabazarbd.com](http://sherabazarbd.com) | Active |
+| 439 | [sabehabd.com](http://sabehabd.com) | Active |
+| 440 | [baranbd.com](http://baranbd.com) | Active |
+| 441 | [barakahexpress.com](http://barakahexpress.com) | Active |
+| 442 | [rupaboron.com](http://rupaboron.com) | Active |
