@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}446}$$ 🔥 domains are live now
+These 🔥 $${\color{red}444}$$ 🔥 domains are live now
 
-_Last updated: **2025-09-24 02:09:35 Asia/Dhaka**_
+_Last updated: **2025-09-24 02:32:10 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -667,42 +667,40 @@ _Last updated: **2025-09-24 02:09:35 Asia/Dhaka**_
 | 405 | [sinobazaar.com](http://sinobazaar.com) | Active |
 | 406 | [gogonmart.com](http://gogonmart.com) | Active |
 | 407 | [etkmart.com](http://etkmart.com) | Active |
-| 408 | [trandytrade.com](http://trandytrade.com) | Active |
-| 409 | [sohozkroy.com](http://sohozkroy.com) | Active |
-| 410 | [ekingdombd.com](http://ekingdombd.com) | Active |
-| 411 | [croymart.com](http://croymart.com) | Active |
-| 412 | [faceparkbd.com](http://faceparkbd.com) | Active |
-| 413 | [hnemart.com](http://hnemart.com) | Active |
-| 414 | [jannathut.com](http://jannathut.com) | Active |
-| 415 | [shokherebazar.com](http://shokherebazar.com) | Active |
-| 416 | [rienterprise.com](http://rienterprise.com) | Active |
-| 417 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
-| 418 | [ponnohaat.com](http://ponnohaat.com) | Active |
-| 419 | [restartvally.com](http://restartvally.com) | Active |
-| 420 | [shohojebazar.com](http://shohojebazar.com) | Active |
-| 421 | [ponnoebazar.com](http://ponnoebazar.com) | Active |
-| 422 | [royalzonebd.com](http://royalzonebd.com) | Active |
-| 423 | [bikroybitan.com](http://bikroybitan.com) | Active |
-| 424 | [barakahairoil.com](http://barakahairoil.com) | Active |
-| 425 | [cleanmasterr.com](http://cleanmasterr.com) | Active |
-| 426 | [reseller.sebaitsolutions.com](http://reseller.sebaitsolutions.com) | Active |
-| 427 | [deshshop24.com](http://deshshop24.com) | Active |
-| 428 | [mienterpriseltd.com](http://mienterpriseltd.com) | Active |
-| 429 | [amarebazar.com](http://amarebazar.com) | Active |
-| 430 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
-| 431 | [digdigonto.com](http://digdigonto.com) | Active |
-| 432 | [arvally.com](http://arvally.com) | Active |
-| 433 | [realsheba.com](http://realsheba.com) | Active |
-| 434 | [sherabazarbd.com](http://sherabazarbd.com) | Active |
-| 435 | [sabehabd.com](http://sabehabd.com) | Active |
-| 436 | [baranbd.com](http://baranbd.com) | Active |
-| 437 | [barakahexpress.com](http://barakahexpress.com) | Active |
-| 438 | [rupaboron.com](http://rupaboron.com) | Active |
-| 439 | [uddoktabari.com](http://uddoktabari.com) | Active |
-| 440 | [royalchoicefield.com](http://royalchoicefield.com) | Active |
-| 441 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
-| 442 | [barakabd.com](http://barakabd.com) | Active |
-| 443 | [smartworldbd.com](http://smartworldbd.com) | Active |
-| 444 | [amarhaatbazar.com](http://amarhaatbazar.com) | Active |
-| 445 | [aroshishopping.com](http://aroshishopping.com) | Active |
-| 446 | [babybarishop.com](http://babybarishop.com) | Active |
+| 408 | [sohozkroy.com](http://sohozkroy.com) | Active |
+| 409 | [ekingdombd.com](http://ekingdombd.com) | Active |
+| 410 | [croymart.com](http://croymart.com) | Active |
+| 411 | [faceparkbd.com](http://faceparkbd.com) | Active |
+| 412 | [hnemart.com](http://hnemart.com) | Active |
+| 413 | [jannathut.com](http://jannathut.com) | Active |
+| 414 | [shokherebazar.com](http://shokherebazar.com) | Active |
+| 415 | [rienterprise.com](http://rienterprise.com) | Active |
+| 416 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
+| 417 | [ponnohaat.com](http://ponnohaat.com) | Active |
+| 418 | [restartvally.com](http://restartvally.com) | Active |
+| 419 | [ponnoebazar.com](http://ponnoebazar.com) | Active |
+| 420 | [royalzonebd.com](http://royalzonebd.com) | Active |
+| 421 | [bikroybitan.com](http://bikroybitan.com) | Active |
+| 422 | [barakahairoil.com](http://barakahairoil.com) | Active |
+| 423 | [cleanmasterr.com](http://cleanmasterr.com) | Active |
+| 424 | [reseller.sebaitsolutions.com](http://reseller.sebaitsolutions.com) | Active |
+| 425 | [deshshop24.com](http://deshshop24.com) | Active |
+| 426 | [mienterpriseltd.com](http://mienterpriseltd.com) | Active |
+| 427 | [amarebazar.com](http://amarebazar.com) | Active |
+| 428 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
+| 429 | [digdigonto.com](http://digdigonto.com) | Active |
+| 430 | [arvally.com](http://arvally.com) | Active |
+| 431 | [realsheba.com](http://realsheba.com) | Active |
+| 432 | [sherabazarbd.com](http://sherabazarbd.com) | Active |
+| 433 | [sabehabd.com](http://sabehabd.com) | Active |
+| 434 | [baranbd.com](http://baranbd.com) | Active |
+| 435 | [barakahexpress.com](http://barakahexpress.com) | Active |
+| 436 | [rupaboron.com](http://rupaboron.com) | Active |
+| 437 | [uddoktabari.com](http://uddoktabari.com) | Active |
+| 438 | [royalchoicefield.com](http://royalchoicefield.com) | Active |
+| 439 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
+| 440 | [barakabd.com](http://barakabd.com) | Active |
+| 441 | [smartworldbd.com](http://smartworldbd.com) | Active |
+| 442 | [amarhaatbazar.com](http://amarhaatbazar.com) | Active |
+| 443 | [aroshishopping.com](http://aroshishopping.com) | Active |
+| 444 | [babybarishop.com](http://babybarishop.com) | Active |
