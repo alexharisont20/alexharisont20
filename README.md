@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}452}$$ 🔥 domains are live now
 
-_Last updated: **2025-09-26 20:08:19 Asia/Dhaka**_
+_Last updated: **2025-09-26 20:31:47 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -692,23 +692,23 @@ _Last updated: **2025-09-26 20:08:19 Asia/Dhaka**_
 | 430 | [digdigonto.com](http://digdigonto.com) | Active |
 | 431 | [arvally.com](http://arvally.com) | Active |
 | 432 | [realsheba.com](http://realsheba.com) | Active |
-| 433 | [sherabazarbd.com](http://sherabazarbd.com) | Active |
-| 434 | [barakahexpress.com](http://barakahexpress.com) | Active |
-| 435 | [rupaboron.com](http://rupaboron.com) | Active |
-| 436 | [uddoktabari.com](http://uddoktabari.com) | Active |
-| 437 | [royalchoicefield.com](http://royalchoicefield.com) | Active |
-| 438 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
-| 439 | [barakabd.com](http://barakabd.com) | Active |
-| 440 | [smartworldbd.com](http://smartworldbd.com) | Active |
-| 441 | [amarhaatbazar.com](http://amarhaatbazar.com) | Active |
-| 442 | [aroshishopping.com](http://aroshishopping.com) | Active |
-| 443 | [babybarishop.com](http://babybarishop.com) | Active |
-| 444 | [peaceshoppingbd.com](http://peaceshoppingbd.com) | Active |
-| 445 | [barakastorebd.com](http://barakastorebd.com) | Active |
-| 446 | [azizbazarbd.com](http://azizbazarbd.com) | Active |
-| 447 | [clickbazarr.com](http://clickbazarr.com) | Active |
-| 448 | [shohozebajar.com](http://shohozebajar.com) | Active |
-| 449 | [bazarbary.com](http://bazarbary.com) | Active |
-| 450 | [bdgallerye.com](http://bdgallerye.com) | Active |
-| 451 | [sabehabd.com](http://sabehabd.com) | Active |
-| 452 | [baranbd.com](http://baranbd.com) | Active |
+| 433 | [barakahexpress.com](http://barakahexpress.com) | Active |
+| 434 | [rupaboron.com](http://rupaboron.com) | Active |
+| 435 | [uddoktabari.com](http://uddoktabari.com) | Active |
+| 436 | [royalchoicefield.com](http://royalchoicefield.com) | Active |
+| 437 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
+| 438 | [barakabd.com](http://barakabd.com) | Active |
+| 439 | [smartworldbd.com](http://smartworldbd.com) | Active |
+| 440 | [amarhaatbazar.com](http://amarhaatbazar.com) | Active |
+| 441 | [aroshishopping.com](http://aroshishopping.com) | Active |
+| 442 | [babybarishop.com](http://babybarishop.com) | Active |
+| 443 | [peaceshoppingbd.com](http://peaceshoppingbd.com) | Active |
+| 444 | [barakastorebd.com](http://barakastorebd.com) | Active |
+| 445 | [azizbazarbd.com](http://azizbazarbd.com) | Active |
+| 446 | [clickbazarr.com](http://clickbazarr.com) | Active |
+| 447 | [shohozebajar.com](http://shohozebajar.com) | Active |
+| 448 | [bazarbary.com](http://bazarbary.com) | Active |
+| 449 | [bdgallerye.com](http://bdgallerye.com) | Active |
+| 450 | [sabehabd.com](http://sabehabd.com) | Active |
+| 451 | [baranbd.com](http://baranbd.com) | Active |
+| 452 | [sherabazarbd.com](http://sherabazarbd.com) | Active |
