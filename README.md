@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}466}$$ 🔥 domains are live now
+These 🔥 $${\color{red}468}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-12 20:45:00 Asia/Dhaka**_
+_Last updated: **2025-10-12 20:57:40 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -726,3 +726,5 @@ _Last updated: **2025-10-12 20:45:00 Asia/Dhaka**_
 | 464 | [arhalalshop.com](http://arhalalshop.com) | Active |
 | 465 | [yakindepartmentalstore.com](http://yakindepartmentalstore.com) | Active |
 | 466 | [oriolifestyle.com](http://oriolifestyle.com) | Active |
+| 467 | [nittoponnoshop.com](http://nittoponnoshop.com) | Active |
+| 468 | [jubayerstores.com](http://jubayerstores.com) | Active |
