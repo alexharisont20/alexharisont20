@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}470}$$ 🔥 domains are live now
+These 🔥 $${\color{red}469}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-13 19:30:25 Asia/Dhaka**_
+_Last updated: **2025-10-13 19:49:09 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -717,16 +717,15 @@ _Last updated: **2025-10-13 19:30:25 Asia/Dhaka**_
 | 455 | [asell.com.bd](http://asell.com.bd) | Active |
 | 456 | [endlessia.com](http://endlessia.com) | Active |
 | 457 | [antorafashionngadgets.com](http://antorafashionngadgets.com) | Active |
-| 458 | [ghoreboshebazar.com](http://ghoreboshebazar.com) | Active |
-| 459 | [dailyshopbd24.com](http://dailyshopbd24.com) | Active |
-| 460 | [hrshop24.com](http://hrshop24.com) | Active |
-| 461 | [tuktakbazarbd.com](http://tuktakbazarbd.com) | Active |
-| 462 | [dorkar24.com](http://dorkar24.com) | Active |
-| 463 | [nittonotunebazar.com](http://nittonotunebazar.com) | Active |
-| 464 | [abahon.com](http://abahon.com) | Active |
-| 465 | [trusthubbd.com](http://trusthubbd.com) | Active |
-| 466 | [arhalalshop.com](http://arhalalshop.com) | Active |
-| 467 | [yakindepartmentalstore.com](http://yakindepartmentalstore.com) | Active |
-| 468 | [oriolifestyle.com](http://oriolifestyle.com) | Active |
-| 469 | [nittoponnoshop.com](http://nittoponnoshop.com) | Active |
-| 470 | [jubayerstores.com](http://jubayerstores.com) | Active |
+| 458 | [dailyshopbd24.com](http://dailyshopbd24.com) | Active |
+| 459 | [hrshop24.com](http://hrshop24.com) | Active |
+| 460 | [tuktakbazarbd.com](http://tuktakbazarbd.com) | Active |
+| 461 | [dorkar24.com](http://dorkar24.com) | Active |
+| 462 | [nittonotunebazar.com](http://nittonotunebazar.com) | Active |
+| 463 | [abahon.com](http://abahon.com) | Active |
+| 464 | [trusthubbd.com](http://trusthubbd.com) | Active |
+| 465 | [arhalalshop.com](http://arhalalshop.com) | Active |
+| 466 | [yakindepartmentalstore.com](http://yakindepartmentalstore.com) | Active |
+| 467 | [oriolifestyle.com](http://oriolifestyle.com) | Active |
+| 468 | [nittoponnoshop.com](http://nittoponnoshop.com) | Active |
+| 469 | [jubayerstores.com](http://jubayerstores.com) | Active |
