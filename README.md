@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}468}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-22 12:56:49 Asia/Dhaka**_
+_Last updated: **2025-10-22 13:25:53 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -727,4 +727,4 @@ _Last updated: **2025-10-22 12:56:49 Asia/Dhaka**_
 | 465 | [luxoraeshop.com](http://luxoraeshop.com) | Active |
 | 466 | [meyabhai.com](http://meyabhai.com) | Active |
 | 467 | [jayanshops.com](http://jayanshops.com) | Active |
-| 468 | [ideal100.com](http://ideal100.com) | Active |
+| 468 | [southsell.com](http://southsell.com) | Active |
