@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}473}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-23 19:43:42 Asia/Dhaka**_
+_Last updated: **2025-10-23 19:57:06 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -717,19 +717,19 @@ _Last updated: **2025-10-23 19:43:42 Asia/Dhaka**_
 | 455 | [oriolifestyle.com](http://oriolifestyle.com) | Active |
 | 456 | [nittoponnoshop.com](http://nittoponnoshop.com) | Active |
 | 457 | [jubayerstores.com](http://jubayerstores.com) | Active |
-| 458 | [ghoreboshebazar.com](http://ghoreboshebazar.com) | Active |
-| 459 | [etkmart.com](http://etkmart.com) | Active |
-| 460 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
-| 461 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
-| 462 | [pijushmart.com](http://pijushmart.com) | Active |
-| 463 | [utshahohaat.com](http://utshahohaat.com) | Active |
-| 464 | [luxoraeshop.com](http://luxoraeshop.com) | Active |
-| 465 | [meyabhai.com](http://meyabhai.com) | Active |
-| 466 | [jayanshops.com](http://jayanshops.com) | Active |
-| 467 | [southsell.com](http://southsell.com) | Active |
-| 468 | [ideal100.com](http://ideal100.com) | Active |
-| 469 | [tntbazar.com](http://tntbazar.com) | Active |
-| 470 | [bondhuzone.com](http://bondhuzone.com) | Active |
-| 471 | [ezyshopz.com](http://ezyshopz.com) | Active |
-| 472 | [absmart24.com](http://absmart24.com) | Active |
-| 473 | [thedreamerbd.com](http://thedreamerbd.com) | Active |
+| 458 | [etkmart.com](http://etkmart.com) | Active |
+| 459 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
+| 460 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
+| 461 | [pijushmart.com](http://pijushmart.com) | Active |
+| 462 | [utshahohaat.com](http://utshahohaat.com) | Active |
+| 463 | [luxoraeshop.com](http://luxoraeshop.com) | Active |
+| 464 | [meyabhai.com](http://meyabhai.com) | Active |
+| 465 | [jayanshops.com](http://jayanshops.com) | Active |
+| 466 | [southsell.com](http://southsell.com) | Active |
+| 467 | [ideal100.com](http://ideal100.com) | Active |
+| 468 | [tntbazar.com](http://tntbazar.com) | Active |
+| 469 | [bondhuzone.com](http://bondhuzone.com) | Active |
+| 470 | [ezyshopz.com](http://ezyshopz.com) | Active |
+| 471 | [absmart24.com](http://absmart24.com) | Active |
+| 472 | [thedreamerbd.com](http://thedreamerbd.com) | Active |
+| 473 | [ghoreboshebazar.com](http://ghoreboshebazar.com) | Active |
