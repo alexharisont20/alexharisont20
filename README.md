@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}473}$$ 🔥 domains are live now
+These 🔥 $${\color{red}470}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-24 01:49:37 Asia/Dhaka**_
+_Last updated: **2025-10-24 02:13:18 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -707,29 +707,26 @@ _Last updated: **2025-10-24 01:49:37 Asia/Dhaka**_
 | 445 | [antorafashionngadgets.com](http://antorafashionngadgets.com) | Active |
 | 446 | [dailyshopbd24.com](http://dailyshopbd24.com) | Active |
 | 447 | [hrshop24.com](http://hrshop24.com) | Active |
-| 448 | [tuktakbazarbd.com](http://tuktakbazarbd.com) | Active |
-| 449 | [dorkar24.com](http://dorkar24.com) | Active |
-| 450 | [nittonotunebazar.com](http://nittonotunebazar.com) | Active |
-| 451 | [abahon.com](http://abahon.com) | Active |
-| 452 | [trusthubbd.com](http://trusthubbd.com) | Active |
-| 453 | [arhalalshop.com](http://arhalalshop.com) | Active |
-| 454 | [yakindepartmentalstore.com](http://yakindepartmentalstore.com) | Active |
-| 455 | [oriolifestyle.com](http://oriolifestyle.com) | Active |
-| 456 | [nittoponnoshop.com](http://nittoponnoshop.com) | Active |
-| 457 | [jubayerstores.com](http://jubayerstores.com) | Active |
-| 458 | [pijushmart.com](http://pijushmart.com) | Active |
-| 459 | [utshahohaat.com](http://utshahohaat.com) | Active |
-| 460 | [luxoraeshop.com](http://luxoraeshop.com) | Active |
-| 461 | [meyabhai.com](http://meyabhai.com) | Active |
-| 462 | [jayanshops.com](http://jayanshops.com) | Active |
-| 463 | [southsell.com](http://southsell.com) | Active |
-| 464 | [tntbazar.com](http://tntbazar.com) | Active |
-| 465 | [bondhuzone.com](http://bondhuzone.com) | Active |
-| 466 | [ezyshopz.com](http://ezyshopz.com) | Active |
-| 467 | [absmart24.com](http://absmart24.com) | Active |
-| 468 | [thedreamerbd.com](http://thedreamerbd.com) | Active |
-| 469 | [ghoreboshebazar.com](http://ghoreboshebazar.com) | Active |
-| 470 | [etkmart.com](http://etkmart.com) | Active |
-| 471 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
-| 472 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
-| 473 | [ideal100.com](http://ideal100.com) | Active |
+| 448 | [dorkar24.com](http://dorkar24.com) | Active |
+| 449 | [nittonotunebazar.com](http://nittonotunebazar.com) | Active |
+| 450 | [abahon.com](http://abahon.com) | Active |
+| 451 | [trusthubbd.com](http://trusthubbd.com) | Active |
+| 452 | [arhalalshop.com](http://arhalalshop.com) | Active |
+| 453 | [yakindepartmentalstore.com](http://yakindepartmentalstore.com) | Active |
+| 454 | [oriolifestyle.com](http://oriolifestyle.com) | Active |
+| 455 | [nittoponnoshop.com](http://nittoponnoshop.com) | Active |
+| 456 | [jubayerstores.com](http://jubayerstores.com) | Active |
+| 457 | [pijushmart.com](http://pijushmart.com) | Active |
+| 458 | [utshahohaat.com](http://utshahohaat.com) | Active |
+| 459 | [luxoraeshop.com](http://luxoraeshop.com) | Active |
+| 460 | [meyabhai.com](http://meyabhai.com) | Active |
+| 461 | [jayanshops.com](http://jayanshops.com) | Active |
+| 462 | [southsell.com](http://southsell.com) | Active |
+| 463 | [tntbazar.com](http://tntbazar.com) | Active |
+| 464 | [bondhuzone.com](http://bondhuzone.com) | Active |
+| 465 | [ezyshopz.com](http://ezyshopz.com) | Active |
+| 466 | [ghoreboshebazar.com](http://ghoreboshebazar.com) | Active |
+| 467 | [etkmart.com](http://etkmart.com) | Active |
+| 468 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
+| 469 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
+| 470 | [ideal100.com](http://ideal100.com) | Active |
