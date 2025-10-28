@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}436}$$ 🔥 domains are live now
+These 🔥 $${\color{red}435}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-29 01:58:36 Asia/Dhaka**_
+_Last updated: **2025-10-29 02:31:33 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -693,6 +693,5 @@ _Last updated: **2025-10-29 01:58:36 Asia/Dhaka**_
 | 431 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
 | 432 | [mkemart.com](http://mkemart.com) | Active |
 | 433 | [alizahub.com](http://alizahub.com) | Active |
-| 434 | [rongtulimart.com](http://rongtulimart.com) | Active |
-| 435 | [horekrokombajar.com](http://horekrokombajar.com) | Active |
-| 436 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
+| 434 | [horekrokombajar.com](http://horekrokombajar.com) | Active |
+| 435 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
