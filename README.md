@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}437}$$ 🔥 domains are live now
+These 🔥 $${\color{red}436}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-28 14:53:40 Asia/Dhaka**_
+_Last updated: **2025-10-28 15:24:09 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -681,19 +681,18 @@ _Last updated: **2025-10-28 14:53:40 Asia/Dhaka**_
 | 419 | [jayanshops.com](http://jayanshops.com) | Active |
 | 420 | [southsell.com](http://southsell.com) | Active |
 | 421 | [tntbazar.com](http://tntbazar.com) | Active |
-| 422 | [bondhuzone.com](http://bondhuzone.com) | Active |
-| 423 | [ezyshopz.com](http://ezyshopz.com) | Active |
-| 424 | [absmart24.com](http://absmart24.com) | Active |
-| 425 | [thedreamerbd.com](http://thedreamerbd.com) | Active |
-| 426 | [ghoreboshebazar.com](http://ghoreboshebazar.com) | Active |
-| 427 | [etkmart.com](http://etkmart.com) | Active |
-| 428 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
-| 429 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
-| 430 | [ideal100.com](http://ideal100.com) | Active |
-| 431 | [oneemart.com](http://oneemart.com) | Active |
-| 432 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
-| 433 | [mkemart.com](http://mkemart.com) | Active |
-| 434 | [alizahub.com](http://alizahub.com) | Active |
-| 435 | [rongtulimart.com](http://rongtulimart.com) | Active |
-| 436 | [horekrokombajar.com](http://horekrokombajar.com) | Active |
-| 437 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
+| 422 | [ezyshopz.com](http://ezyshopz.com) | Active |
+| 423 | [absmart24.com](http://absmart24.com) | Active |
+| 424 | [thedreamerbd.com](http://thedreamerbd.com) | Active |
+| 425 | [ghoreboshebazar.com](http://ghoreboshebazar.com) | Active |
+| 426 | [etkmart.com](http://etkmart.com) | Active |
+| 427 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
+| 428 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
+| 429 | [ideal100.com](http://ideal100.com) | Active |
+| 430 | [oneemart.com](http://oneemart.com) | Active |
+| 431 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
+| 432 | [mkemart.com](http://mkemart.com) | Active |
+| 433 | [alizahub.com](http://alizahub.com) | Active |
+| 434 | [rongtulimart.com](http://rongtulimart.com) | Active |
+| 435 | [horekrokombajar.com](http://horekrokombajar.com) | Active |
+| 436 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
