@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}440}$$ 🔥 domains are live now
+These 🔥 $${\color{red}441}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-29 15:58:40 Asia/Dhaka**_
+_Last updated: **2025-10-29 16:32:25 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -689,14 +689,15 @@ _Last updated: **2025-10-29 15:58:40 Asia/Dhaka**_
 | 427 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
 | 428 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
 | 429 | [ideal100.com](http://ideal100.com) | Active |
-| 430 | [oneemart.com](http://oneemart.com) | Active |
-| 431 | [horekrokombajar.com](http://horekrokombajar.com) | Active |
-| 432 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
-| 433 | [bishalbajar.com](http://bishalbajar.com) | Active |
-| 434 | [openshop-bd.com](http://openshop-bd.com) | Active |
-| 435 | [haowamartbd.com](http://haowamartbd.com) | Active |
-| 436 | [trustvally.com](http://trustvally.com) | Active |
-| 437 | [agami.com.bd](http://agami.com.bd) | Active |
-| 438 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
-| 439 | [mkemart.com](http://mkemart.com) | Active |
-| 440 | [alizahub.com](http://alizahub.com) | Active |
+| 430 | [horekrokombajar.com](http://horekrokombajar.com) | Active |
+| 431 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
+| 432 | [bishalbajar.com](http://bishalbajar.com) | Active |
+| 433 | [openshop-bd.com](http://openshop-bd.com) | Active |
+| 434 | [haowamartbd.com](http://haowamartbd.com) | Active |
+| 435 | [trustvally.com](http://trustvally.com) | Active |
+| 436 | [agami.com.bd](http://agami.com.bd) | Active |
+| 437 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
+| 438 | [mkemart.com](http://mkemart.com) | Active |
+| 439 | [alizahub.com](http://alizahub.com) | Active |
+| 440 | [oneemart.com](http://oneemart.com) | Active |
+| 441 | [ashamartbd.com](http://ashamartbd.com) | Active |
