@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}439}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-29 09:54:13 Asia/Dhaka**_
+_Last updated: **2025-10-29 10:29:52 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -690,12 +690,12 @@ _Last updated: **2025-10-29 09:54:13 Asia/Dhaka**_
 | 428 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
 | 429 | [ideal100.com](http://ideal100.com) | Active |
 | 430 | [oneemart.com](http://oneemart.com) | Active |
-| 431 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
-| 432 | [mkemart.com](http://mkemart.com) | Active |
-| 433 | [alizahub.com](http://alizahub.com) | Active |
-| 434 | [horekrokombajar.com](http://horekrokombajar.com) | Active |
-| 435 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
-| 436 | [bishalbajar.com](http://bishalbajar.com) | Active |
-| 437 | [openshop-bd.com](http://openshop-bd.com) | Active |
-| 438 | [haowamartbd.com](http://haowamartbd.com) | Active |
-| 439 | [trustvally.com](http://trustvally.com) | Active |
+| 431 | [horekrokombajar.com](http://horekrokombajar.com) | Active |
+| 432 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
+| 433 | [bishalbajar.com](http://bishalbajar.com) | Active |
+| 434 | [openshop-bd.com](http://openshop-bd.com) | Active |
+| 435 | [haowamartbd.com](http://haowamartbd.com) | Active |
+| 436 | [trustvally.com](http://trustvally.com) | Active |
+| 437 | [agami.com.bd](http://agami.com.bd) | Active |
+| 438 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
+| 439 | [mkemart.com](http://mkemart.com) | Active |
