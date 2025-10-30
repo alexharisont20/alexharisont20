@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}446}$$ 🔥 domains are live now
+These 🔥 $${\color{red}444}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-31 01:48:34 Asia/Dhaka**_
+_Last updated: **2025-10-31 02:11:23 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -695,14 +695,12 @@ _Last updated: **2025-10-31 01:48:34 Asia/Dhaka**_
 | 433 | [openshop-bd.com](http://openshop-bd.com) | Active |
 | 434 | [haowamartbd.com](http://haowamartbd.com) | Active |
 | 435 | [trustvally.com](http://trustvally.com) | Active |
-| 436 | [agami.com.bd](http://agami.com.bd) | Active |
-| 437 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
-| 438 | [mkemart.com](http://mkemart.com) | Active |
-| 439 | [alizahub.com](http://alizahub.com) | Active |
-| 440 | [ashamartbd.com](http://ashamartbd.com) | Active |
-| 441 | [dorkar-shop.com](http://dorkar-shop.com) | Active |
-| 442 | [rongtulimart.com](http://rongtulimart.com) | Active |
-| 443 | [bondhuzone.com](http://bondhuzone.com) | Active |
-| 444 | [punokbd.com](http://punokbd.com) | Active |
-| 445 | [onlinedokaan.com](http://onlinedokaan.com) | Active |
-| 446 | [oneemart.com](http://oneemart.com) | Active |
+| 436 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
+| 437 | [mkemart.com](http://mkemart.com) | Active |
+| 438 | [alizahub.com](http://alizahub.com) | Active |
+| 439 | [ashamartbd.com](http://ashamartbd.com) | Active |
+| 440 | [dorkar-shop.com](http://dorkar-shop.com) | Active |
+| 441 | [rongtulimart.com](http://rongtulimart.com) | Active |
+| 442 | [bondhuzone.com](http://bondhuzone.com) | Active |
+| 443 | [punokbd.com](http://punokbd.com) | Active |
+| 444 | [oneemart.com](http://oneemart.com) | Active |
