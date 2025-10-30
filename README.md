@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}446}$$ 🔥 domains are live now
 
-_Last updated: **2025-10-30 13:24:47 Asia/Dhaka**_
+_Last updated: **2025-10-30 13:40:09 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -701,8 +701,8 @@ _Last updated: **2025-10-30 13:24:47 Asia/Dhaka**_
 | 439 | [alizahub.com](http://alizahub.com) | Active |
 | 440 | [ashamartbd.com](http://ashamartbd.com) | Active |
 | 441 | [dorkar-shop.com](http://dorkar-shop.com) | Active |
-| 442 | [oneemart.com](http://oneemart.com) | Active |
-| 443 | [rongtulimart.com](http://rongtulimart.com) | Active |
-| 444 | [bondhuzone.com](http://bondhuzone.com) | Active |
-| 445 | [punokbd.com](http://punokbd.com) | Active |
-| 446 | [onlinedokaan.com](http://onlinedokaan.com) | Active |
+| 442 | [rongtulimart.com](http://rongtulimart.com) | Active |
+| 443 | [bondhuzone.com](http://bondhuzone.com) | Active |
+| 444 | [punokbd.com](http://punokbd.com) | Active |
+| 445 | [onlinedokaan.com](http://onlinedokaan.com) | Active |
+| 446 | [oneemart.com](http://oneemart.com) | Active |
