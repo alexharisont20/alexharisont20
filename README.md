@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}445}$$ 🔥 domains are live now
+These 🔥 $${\color{red}447}$$ 🔥 domains are live now
 
-_Last updated: **2025-11-01 09:57:36 Asia/Dhaka**_
+_Last updated: **2025-11-01 10:29:25 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -705,3 +705,5 @@ _Last updated: **2025-11-01 09:57:36 Asia/Dhaka**_
 | 443 | [punokbd.com](http://punokbd.com) | Active |
 | 444 | [oneemart.com](http://oneemart.com) | Active |
 | 445 | [safwanemart.com](http://safwanemart.com) | Active |
+| 446 | [ponnokuthirbd.com](http://ponnokuthirbd.com) | Active |
+| 447 | [babelshopbd.com](http://babelshopbd.com) | Active |
