@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}451}$$ 🔥 domains are live now
+These 🔥 $${\color{red}452}$$ 🔥 domains are live now
 
-_Last updated: **2025-11-04 01:49:04 Asia/Dhaka**_
+_Last updated: **2025-11-04 02:13:17 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -664,50 +664,51 @@ _Last updated: **2025-11-04 01:49:04 Asia/Dhaka**_
 | 402 | [antorafashionngadgets.com](http://antorafashionngadgets.com) | Active |
 | 403 | [dailyshopbd24.com](http://dailyshopbd24.com) | Active |
 | 404 | [hrshop24.com](http://hrshop24.com) | Active |
-| 405 | [dorkar24.com](http://dorkar24.com) | Active |
-| 406 | [nittonotunebazar.com](http://nittonotunebazar.com) | Active |
-| 407 | [abahon.com](http://abahon.com) | Active |
-| 408 | [trusthubbd.com](http://trusthubbd.com) | Active |
-| 409 | [arhalalshop.com](http://arhalalshop.com) | Active |
-| 410 | [yakindepartmentalstore.com](http://yakindepartmentalstore.com) | Active |
-| 411 | [oriolifestyle.com](http://oriolifestyle.com) | Active |
-| 412 | [nittoponnoshop.com](http://nittoponnoshop.com) | Active |
-| 413 | [jubayerstores.com](http://jubayerstores.com) | Active |
-| 414 | [pijushmart.com](http://pijushmart.com) | Active |
-| 415 | [utshahohaat.com](http://utshahohaat.com) | Active |
-| 416 | [luxoraeshop.com](http://luxoraeshop.com) | Active |
-| 417 | [meyabhai.com](http://meyabhai.com) | Active |
-| 418 | [jayanshops.com](http://jayanshops.com) | Active |
-| 419 | [southsell.com](http://southsell.com) | Active |
-| 420 | [tntbazar.com](http://tntbazar.com) | Active |
-| 421 | [ezyshopz.com](http://ezyshopz.com) | Active |
-| 422 | [absmart24.com](http://absmart24.com) | Active |
-| 423 | [thedreamerbd.com](http://thedreamerbd.com) | Active |
-| 424 | [ghoreboshebazar.com](http://ghoreboshebazar.com) | Active |
-| 425 | [etkmart.com](http://etkmart.com) | Active |
-| 426 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
-| 427 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
-| 428 | [ideal100.com](http://ideal100.com) | Active |
-| 429 | [horekrokombajar.com](http://horekrokombajar.com) | Active |
-| 430 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
-| 431 | [bishalbajar.com](http://bishalbajar.com) | Active |
-| 432 | [openshop-bd.com](http://openshop-bd.com) | Active |
-| 433 | [haowamartbd.com](http://haowamartbd.com) | Active |
-| 434 | [trustvally.com](http://trustvally.com) | Active |
-| 435 | [agami.com.bd](http://agami.com.bd) | Active |
-| 436 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
-| 437 | [mkemart.com](http://mkemart.com) | Active |
-| 438 | [alizahub.com](http://alizahub.com) | Active |
-| 439 | [ashamartbd.com](http://ashamartbd.com) | Active |
-| 440 | [dorkar-shop.com](http://dorkar-shop.com) | Active |
-| 441 | [rongtulimart.com](http://rongtulimart.com) | Active |
-| 442 | [bondhuzone.com](http://bondhuzone.com) | Active |
-| 443 | [punokbd.com](http://punokbd.com) | Active |
-| 444 | [onlinedokaan.com](http://onlinedokaan.com) | Active |
-| 445 | [oneemart.com](http://oneemart.com) | Active |
-| 446 | [safwanemart.com](http://safwanemart.com) | Active |
-| 447 | [ponnokuthirbd.com](http://ponnokuthirbd.com) | Active |
-| 448 | [babelshopbd.com](http://babelshopbd.com) | Active |
-| 449 | [bajarmela.com](http://bajarmela.com) | Active |
-| 450 | [recartexpress.com](http://recartexpress.com) | Active |
-| 451 | [eeasymart.com](http://eeasymart.com) | Active |
+| 405 | [tuktakbazarbd.com](http://tuktakbazarbd.com) | Active |
+| 406 | [dorkar24.com](http://dorkar24.com) | Active |
+| 407 | [nittonotunebazar.com](http://nittonotunebazar.com) | Active |
+| 408 | [abahon.com](http://abahon.com) | Active |
+| 409 | [trusthubbd.com](http://trusthubbd.com) | Active |
+| 410 | [arhalalshop.com](http://arhalalshop.com) | Active |
+| 411 | [yakindepartmentalstore.com](http://yakindepartmentalstore.com) | Active |
+| 412 | [oriolifestyle.com](http://oriolifestyle.com) | Active |
+| 413 | [nittoponnoshop.com](http://nittoponnoshop.com) | Active |
+| 414 | [jubayerstores.com](http://jubayerstores.com) | Active |
+| 415 | [pijushmart.com](http://pijushmart.com) | Active |
+| 416 | [utshahohaat.com](http://utshahohaat.com) | Active |
+| 417 | [luxoraeshop.com](http://luxoraeshop.com) | Active |
+| 418 | [meyabhai.com](http://meyabhai.com) | Active |
+| 419 | [jayanshops.com](http://jayanshops.com) | Active |
+| 420 | [southsell.com](http://southsell.com) | Active |
+| 421 | [tntbazar.com](http://tntbazar.com) | Active |
+| 422 | [ezyshopz.com](http://ezyshopz.com) | Active |
+| 423 | [absmart24.com](http://absmart24.com) | Active |
+| 424 | [thedreamerbd.com](http://thedreamerbd.com) | Active |
+| 425 | [ghoreboshebazar.com](http://ghoreboshebazar.com) | Active |
+| 426 | [etkmart.com](http://etkmart.com) | Active |
+| 427 | [ekhonekinun.com](http://ekhonekinun.com) | Active |
+| 428 | [dhakauddokta.com](http://dhakauddokta.com) | Active |
+| 429 | [ideal100.com](http://ideal100.com) | Active |
+| 430 | [horekrokombajar.com](http://horekrokombajar.com) | Active |
+| 431 | [rowshonenterprise.com](http://rowshonenterprise.com) | Active |
+| 432 | [bishalbajar.com](http://bishalbajar.com) | Active |
+| 433 | [openshop-bd.com](http://openshop-bd.com) | Active |
+| 434 | [haowamartbd.com](http://haowamartbd.com) | Active |
+| 435 | [trustvally.com](http://trustvally.com) | Active |
+| 436 | [agami.com.bd](http://agami.com.bd) | Active |
+| 437 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
+| 438 | [mkemart.com](http://mkemart.com) | Active |
+| 439 | [alizahub.com](http://alizahub.com) | Active |
+| 440 | [ashamartbd.com](http://ashamartbd.com) | Active |
+| 441 | [dorkar-shop.com](http://dorkar-shop.com) | Active |
+| 442 | [rongtulimart.com](http://rongtulimart.com) | Active |
+| 443 | [bondhuzone.com](http://bondhuzone.com) | Active |
+| 444 | [punokbd.com](http://punokbd.com) | Active |
+| 445 | [onlinedokaan.com](http://onlinedokaan.com) | Active |
+| 446 | [oneemart.com](http://oneemart.com) | Active |
+| 447 | [safwanemart.com](http://safwanemart.com) | Active |
+| 448 | [ponnokuthirbd.com](http://ponnokuthirbd.com) | Active |
+| 449 | [babelshopbd.com](http://babelshopbd.com) | Active |
+| 450 | [bajarmela.com](http://bajarmela.com) | Active |
+| 451 | [recartexpress.com](http://recartexpress.com) | Active |
+| 452 | [eeasymart.com](http://eeasymart.com) | Active |
