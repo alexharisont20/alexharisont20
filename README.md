@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}456}$$ 🔥 domains are live now
+These 🔥 $${\color{red}457}$$ 🔥 domains are live now
 
-_Last updated: **2025-11-08 10:46:18 Asia/Dhaka**_
+_Last updated: **2025-11-08 10:59:12 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -699,20 +699,21 @@ _Last updated: **2025-11-08 10:46:18 Asia/Dhaka**_
 | 437 | [clicktoeasybuy.com](http://clicktoeasybuy.com) | Active |
 | 438 | [mkemart.com](http://mkemart.com) | Active |
 | 439 | [alizahub.com](http://alizahub.com) | Active |
-| 440 | [ashamartbd.com](http://ashamartbd.com) | Active |
-| 441 | [rongtulimart.com](http://rongtulimart.com) | Active |
-| 442 | [bondhuzone.com](http://bondhuzone.com) | Active |
-| 443 | [punokbd.com](http://punokbd.com) | Active |
-| 444 | [onlinedokaan.com](http://onlinedokaan.com) | Active |
-| 445 | [oneemart.com](http://oneemart.com) | Active |
-| 446 | [safwanemart.com](http://safwanemart.com) | Active |
-| 447 | [ponnokuthirbd.com](http://ponnokuthirbd.com) | Active |
-| 448 | [babelshopbd.com](http://babelshopbd.com) | Active |
-| 449 | [bajarmela.com](http://bajarmela.com) | Active |
-| 450 | [recartexpress.com](http://recartexpress.com) | Active |
-| 451 | [eeasymart.com](http://eeasymart.com) | Active |
-| 452 | [qismatshop.com](http://qismatshop.com) | Active |
-| 453 | [kismat51.com](http://kismat51.com) | Active |
-| 454 | [homexpressbd.com](http://homexpressbd.com) | Active |
-| 455 | [sonost.com](http://sonost.com) | Active |
-| 456 | [mohammademart.com](http://mohammademart.com) | Active |
+| 440 | [pantbazar.com.bd](http://pantbazar.com.bd) | Active |
+| 441 | [ashamartbd.com](http://ashamartbd.com) | Active |
+| 442 | [rongtulimart.com](http://rongtulimart.com) | Active |
+| 443 | [bondhuzone.com](http://bondhuzone.com) | Active |
+| 444 | [punokbd.com](http://punokbd.com) | Active |
+| 445 | [onlinedokaan.com](http://onlinedokaan.com) | Active |
+| 446 | [oneemart.com](http://oneemart.com) | Active |
+| 447 | [safwanemart.com](http://safwanemart.com) | Active |
+| 448 | [ponnokuthirbd.com](http://ponnokuthirbd.com) | Active |
+| 449 | [babelshopbd.com](http://babelshopbd.com) | Active |
+| 450 | [bajarmela.com](http://bajarmela.com) | Active |
+| 451 | [recartexpress.com](http://recartexpress.com) | Active |
+| 452 | [eeasymart.com](http://eeasymart.com) | Active |
+| 453 | [qismatshop.com](http://qismatshop.com) | Active |
+| 454 | [kismat51.com](http://kismat51.com) | Active |
+| 455 | [homexpressbd.com](http://homexpressbd.com) | Active |
+| 456 | [sonost.com](http://sonost.com) | Active |
+| 457 | [mohammademart.com](http://mohammademart.com) | Active |
