@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}453}$$ 🔥 domains are live now
+These 🔥 $${\color{red}454}$$ 🔥 domains are live now
 
-_Last updated: **2025-11-12 21:13:02 Asia/Dhaka**_
+_Last updated: **2025-11-12 21:39:49 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -713,3 +713,4 @@ _Last updated: **2025-11-12 21:13:02 Asia/Dhaka**_
 | 451 | [fenionlinebd.com](http://fenionlinebd.com) | Active |
 | 452 | [fatemaemart.com](http://fatemaemart.com) | Active |
 | 453 | [minichinabazar.com](http://minichinabazar.com) | Active |
+| 454 | [aminaemart.com](http://aminaemart.com) | Active |
