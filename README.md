@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}458}$$ 🔥 domains are live now
 
-_Last updated: **2025-11-13 11:35:08 Asia/Dhaka**_
+_Last updated: **2025-11-13 11:49:58 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -705,16 +705,16 @@ _Last updated: **2025-11-13 11:35:08 Asia/Dhaka**_
 | 443 | [eeasymart.com](http://eeasymart.com) | Active |
 | 444 | [qismatshop.com](http://qismatshop.com) | Active |
 | 445 | [kismat51.com](http://kismat51.com) | Active |
-| 446 | [taslimashop.com](http://taslimashop.com) | Active |
-| 447 | [homexpressbd.com](http://homexpressbd.com) | Active |
-| 448 | [sonost.com](http://sonost.com) | Active |
-| 449 | [safwanemart.com](http://safwanemart.com) | Active |
-| 450 | [bajarmela.com](http://bajarmela.com) | Active |
-| 451 | [sylban.com](http://sylban.com) | Active |
-| 452 | [mohammademart.com](http://mohammademart.com) | Active |
-| 453 | [fenionlinebd.com](http://fenionlinebd.com) | Active |
-| 454 | [fatemaemart.com](http://fatemaemart.com) | Active |
-| 455 | [minichinabazar.com](http://minichinabazar.com) | Active |
-| 456 | [aminaemart.com](http://aminaemart.com) | Active |
-| 457 | [aarot24.com](http://aarot24.com) | Active |
-| 458 | [trusthubbd.com](http://trusthubbd.com) | Active |
+| 446 | [homexpressbd.com](http://homexpressbd.com) | Active |
+| 447 | [sonost.com](http://sonost.com) | Active |
+| 448 | [safwanemart.com](http://safwanemart.com) | Active |
+| 449 | [bajarmela.com](http://bajarmela.com) | Active |
+| 450 | [sylban.com](http://sylban.com) | Active |
+| 451 | [mohammademart.com](http://mohammademart.com) | Active |
+| 452 | [fenionlinebd.com](http://fenionlinebd.com) | Active |
+| 453 | [fatemaemart.com](http://fatemaemart.com) | Active |
+| 454 | [minichinabazar.com](http://minichinabazar.com) | Active |
+| 455 | [aminaemart.com](http://aminaemart.com) | Active |
+| 456 | [aarot24.com](http://aarot24.com) | Active |
+| 457 | [trusthubbd.com](http://trusthubbd.com) | Active |
+| 458 | [taslimashop.com](http://taslimashop.com) | Active |
