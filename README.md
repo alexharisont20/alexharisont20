@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}464}$$ 🔥 domains are live now
+These 🔥 $${\color{red}467}$$ 🔥 domains are live now
 
-_Last updated: **2025-11-16 12:17:30 Asia/Dhaka**_
+_Last updated: **2025-11-16 12:45:22 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -720,7 +720,10 @@ _Last updated: **2025-11-16 12:17:30 Asia/Dhaka**_
 | 458 | [taslimashop.com](http://taslimashop.com) | Active |
 | 459 | [rojshopping.com](http://rojshopping.com) | Active |
 | 460 | [rokomariebazar.com](http://rokomariebazar.com) | Active |
-| 461 | [e-market24.com](http://e-market24.com) | Active |
-| 462 | [ponnovaly.com](http://ponnovaly.com) | Active |
-| 463 | [bikroyemart.com](http://bikroyemart.com) | Active |
-| 464 | [rokomaryhut.com](http://rokomaryhut.com) | Active |
+| 461 | [trustmart24.com](http://trustmart24.com) | Active |
+| 462 | [nittoebazar.com](http://nittoebazar.com) | Active |
+| 463 | [e-bazar24.com](http://e-bazar24.com) | Active |
+| 464 | [e-market24.com](http://e-market24.com) | Active |
+| 465 | [ponnovaly.com](http://ponnovaly.com) | Active |
+| 466 | [bikroyemart.com](http://bikroyemart.com) | Active |
+| 467 | [rokomaryhut.com](http://rokomaryhut.com) | Active |
