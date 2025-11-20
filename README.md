@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}473}$$ 🔥 domains are live now
+These 🔥 $${\color{red}475}$$ 🔥 domains are live now
 
-_Last updated: **2025-11-20 11:41:06 Asia/Dhaka**_
+_Last updated: **2025-11-20 11:53:57 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -733,3 +733,5 @@ _Last updated: **2025-11-20 11:41:06 Asia/Dhaka**_
 | 471 | [isomartbd.com](http://isomartbd.com) | Active |
 | 472 | [new.bestsellbd.com](http://new.bestsellbd.com) | Active |
 | 473 | [kolyshoppingbd.com](http://kolyshoppingbd.com) | Active |
+| 474 | [tnzonlineshop.com](http://tnzonlineshop.com) | Active |
+| 475 | [megaonlinestore24.com](http://megaonlinestore24.com) | Active |
