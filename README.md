@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}480}$$ 🔥 domains are live now
+These 🔥 $${\color{red}484}$$ 🔥 domains are live now
 
-_Last updated: **2025-11-24 21:31:43 Asia/Dhaka**_
+_Last updated: **2025-11-24 21:49:37 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -723,20 +723,24 @@ _Last updated: **2025-11-24 21:31:43 Asia/Dhaka**_
 | 461 | [trustmart24.com](http://trustmart24.com) | Active |
 | 462 | [nittoebazar.com](http://nittoebazar.com) | Active |
 | 463 | [e-bazar24.com](http://e-bazar24.com) | Active |
-| 464 | [e-market24.com](http://e-market24.com) | Active |
-| 465 | [ponnovaly.com](http://ponnovaly.com) | Active |
-| 466 | [bikroyemart.com](http://bikroyemart.com) | Active |
-| 467 | [rokomaryhut.com](http://rokomaryhut.com) | Active |
-| 468 | [powerpartsbd.com](http://powerpartsbd.com) | Active |
-| 469 | [easydeals24.com](http://easydeals24.com) | Active |
-| 470 | [proyozonvally.com](http://proyozonvally.com) | Active |
-| 471 | [isomartbd.com](http://isomartbd.com) | Active |
-| 472 | [new.bestsellbd.com](http://new.bestsellbd.com) | Active |
-| 473 | [kolyshoppingbd.com](http://kolyshoppingbd.com) | Active |
-| 474 | [tnzonlineshop.com](http://tnzonlineshop.com) | Active |
-| 475 | [megaonlinestore24.com](http://megaonlinestore24.com) | Active |
-| 476 | [adhunikponno.com](http://adhunikponno.com) | Active |
-| 477 | [aezonbd.com](http://aezonbd.com) | Active |
-| 478 | [bestsmartcart.com](http://bestsmartcart.com) | Active |
-| 479 | [chinabangla24.com](http://chinabangla24.com) | Active |
-| 480 | [familymart24.com](http://familymart24.com) | Active |
+| 464 | [ponnovaly.com](http://ponnovaly.com) | Active |
+| 465 | [bikroyemart.com](http://bikroyemart.com) | Active |
+| 466 | [rokomaryhut.com](http://rokomaryhut.com) | Active |
+| 467 | [powerpartsbd.com](http://powerpartsbd.com) | Active |
+| 468 | [easydeals24.com](http://easydeals24.com) | Active |
+| 469 | [proyozonvally.com](http://proyozonvally.com) | Active |
+| 470 | [isomartbd.com](http://isomartbd.com) | Active |
+| 471 | [new.bestsellbd.com](http://new.bestsellbd.com) | Active |
+| 472 | [kolyshoppingbd.com](http://kolyshoppingbd.com) | Active |
+| 473 | [tnzonlineshop.com](http://tnzonlineshop.com) | Active |
+| 474 | [megaonlinestore24.com](http://megaonlinestore24.com) | Active |
+| 475 | [adhunikponno.com](http://adhunikponno.com) | Active |
+| 476 | [aezonbd.com](http://aezonbd.com) | Active |
+| 477 | [bestsmartcart.com](http://bestsmartcart.com) | Active |
+| 478 | [chinabangla24.com](http://chinabangla24.com) | Active |
+| 479 | [familymart24.com](http://familymart24.com) | Active |
+| 480 | [smartstylemall.com](http://smartstylemall.com) | Active |
+| 481 | [sssmartbd.com](http://sssmartbd.com) | Active |
+| 482 | [ettadi24.com](http://ettadi24.com) | Active |
+| 483 | [parnashops.com](http://parnashops.com) | Active |
+| 484 | [e-market24.com](http://e-market24.com) | Active |
