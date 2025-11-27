@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}485}$$ 🔥 domains are live now
+These 🔥 $${\color{red}487}$$ 🔥 domains are live now
 
-_Last updated: **2025-11-27 17:15:42 Asia/Dhaka**_
+_Last updated: **2025-11-27 17:32:37 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -745,3 +745,5 @@ _Last updated: **2025-11-27 17:15:42 Asia/Dhaka**_
 | 483 | [ettadi24.com](http://ettadi24.com) | Active |
 | 484 | [parnashops.com](http://parnashops.com) | Active |
 | 485 | [e-market24.com](http://e-market24.com) | Active |
+| 486 | [humayraeshop.com](http://humayraeshop.com) | Active |
+| 487 | [hellomedicinebd.com](http://hellomedicinebd.com) | Active |
