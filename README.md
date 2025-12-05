@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}493}$$ 🔥 domains are live now
+These 🔥 $${\color{red}497}$$ 🔥 domains are live now
 
-_Last updated: **2025-12-05 21:52:21 Asia/Dhaka**_
+_Last updated: **2025-12-05 22:51:30 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -753,3 +753,7 @@ _Last updated: **2025-12-05 21:52:21 Asia/Dhaka**_
 | 491 | [proyozon24.com](http://proyozon24.com) | Active |
 | 492 | [esell24.com](http://esell24.com) | Active |
 | 493 | [afraemart.com](http://afraemart.com) | Active |
+| 494 | [mixmartbd.com](http://mixmartbd.com) | Active |
+| 495 | [armart24.com](http://armart24.com) | Active |
+| 496 | [amazanhub.com](http://amazanhub.com) | Active |
+| 497 | [sellora24.com](http://sellora24.com) | Active |
