@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}496}$$ 🔥 domains are live now
+These 🔥 $${\color{red}495}$$ 🔥 domains are live now
 
-_Last updated: **2025-12-07 11:58:40 Asia/Dhaka**_
+_Last updated: **2025-12-07 12:38:55 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -724,35 +724,34 @@ _Last updated: **2025-12-07 11:58:40 Asia/Dhaka**_
 | 462 | [bikroyemart.com](http://bikroyemart.com) | Active |
 | 463 | [rokomaryhut.com](http://rokomaryhut.com) | Active |
 | 464 | [powerpartsbd.com](http://powerpartsbd.com) | Active |
-| 465 | [easydeals24.com](http://easydeals24.com) | Active |
-| 466 | [proyozonvally.com](http://proyozonvally.com) | Active |
-| 467 | [isomartbd.com](http://isomartbd.com) | Active |
-| 468 | [new.bestsellbd.com](http://new.bestsellbd.com) | Active |
-| 469 | [kolyshoppingbd.com](http://kolyshoppingbd.com) | Active |
-| 470 | [tnzonlineshop.com](http://tnzonlineshop.com) | Active |
-| 471 | [megaonlinestore24.com](http://megaonlinestore24.com) | Active |
-| 472 | [adhunikponno.com](http://adhunikponno.com) | Active |
-| 473 | [aezonbd.com](http://aezonbd.com) | Active |
-| 474 | [bestsmartcart.com](http://bestsmartcart.com) | Active |
-| 475 | [chinabangla24.com](http://chinabangla24.com) | Active |
-| 476 | [familymart24.com](http://familymart24.com) | Active |
-| 477 | [smartstylemall.com](http://smartstylemall.com) | Active |
-| 478 | [sssmartbd.com](http://sssmartbd.com) | Active |
-| 479 | [ettadi24.com](http://ettadi24.com) | Active |
-| 480 | [parnashops.com](http://parnashops.com) | Active |
-| 481 | [e-market24.com](http://e-market24.com) | Active |
-| 482 | [humayraeshop.com](http://humayraeshop.com) | Active |
-| 483 | [hellomedicinebd.com](http://hellomedicinebd.com) | Active |
-| 484 | [sellvion24.com](http://sellvion24.com) | Active |
-| 485 | [riyamartbd.com](http://riyamartbd.com) | Active |
-| 486 | [clickbuy24.com](http://clickbuy24.com) | Active |
-| 487 | [proyozon24.com](http://proyozon24.com) | Active |
-| 488 | [esell24.com](http://esell24.com) | Active |
-| 489 | [afraemart.com](http://afraemart.com) | Active |
-| 490 | [mixmartbd.com](http://mixmartbd.com) | Active |
-| 491 | [armart24.com](http://armart24.com) | Active |
-| 492 | [amazanhub.com](http://amazanhub.com) | Active |
-| 493 | [sellora24.com](http://sellora24.com) | Active |
-| 494 | [mollabajar.com](http://mollabajar.com) | Active |
-| 495 | [nittomela.com](http://nittomela.com) | Active |
-| 496 | [shopghor24.com](http://shopghor24.com) | Active |
+| 465 | [proyozonvally.com](http://proyozonvally.com) | Active |
+| 466 | [isomartbd.com](http://isomartbd.com) | Active |
+| 467 | [new.bestsellbd.com](http://new.bestsellbd.com) | Active |
+| 468 | [kolyshoppingbd.com](http://kolyshoppingbd.com) | Active |
+| 469 | [tnzonlineshop.com](http://tnzonlineshop.com) | Active |
+| 470 | [megaonlinestore24.com](http://megaonlinestore24.com) | Active |
+| 471 | [adhunikponno.com](http://adhunikponno.com) | Active |
+| 472 | [aezonbd.com](http://aezonbd.com) | Active |
+| 473 | [bestsmartcart.com](http://bestsmartcart.com) | Active |
+| 474 | [chinabangla24.com](http://chinabangla24.com) | Active |
+| 475 | [familymart24.com](http://familymart24.com) | Active |
+| 476 | [smartstylemall.com](http://smartstylemall.com) | Active |
+| 477 | [sssmartbd.com](http://sssmartbd.com) | Active |
+| 478 | [ettadi24.com](http://ettadi24.com) | Active |
+| 479 | [parnashops.com](http://parnashops.com) | Active |
+| 480 | [e-market24.com](http://e-market24.com) | Active |
+| 481 | [humayraeshop.com](http://humayraeshop.com) | Active |
+| 482 | [hellomedicinebd.com](http://hellomedicinebd.com) | Active |
+| 483 | [sellvion24.com](http://sellvion24.com) | Active |
+| 484 | [riyamartbd.com](http://riyamartbd.com) | Active |
+| 485 | [clickbuy24.com](http://clickbuy24.com) | Active |
+| 486 | [proyozon24.com](http://proyozon24.com) | Active |
+| 487 | [esell24.com](http://esell24.com) | Active |
+| 488 | [afraemart.com](http://afraemart.com) | Active |
+| 489 | [mixmartbd.com](http://mixmartbd.com) | Active |
+| 490 | [armart24.com](http://armart24.com) | Active |
+| 491 | [amazanhub.com](http://amazanhub.com) | Active |
+| 492 | [sellora24.com](http://sellora24.com) | Active |
+| 493 | [mollabajar.com](http://mollabajar.com) | Active |
+| 494 | [nittomela.com](http://nittomela.com) | Active |
+| 495 | [shopghor24.com](http://shopghor24.com) | Active |
