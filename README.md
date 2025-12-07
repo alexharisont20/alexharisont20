@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}495}$$ 🔥 domains are live now
 
-_Last updated: **2025-12-07 21:53:58 Asia/Dhaka**_
+_Last updated: **2025-12-07 22:26:43 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -740,18 +740,18 @@ _Last updated: **2025-12-07 21:53:58 Asia/Dhaka**_
 | 478 | [ettadi24.com](http://ettadi24.com) | Active |
 | 479 | [parnashops.com](http://parnashops.com) | Active |
 | 480 | [e-market24.com](http://e-market24.com) | Active |
-| 481 | [humayraeshop.com](http://humayraeshop.com) | Active |
-| 482 | [hellomedicinebd.com](http://hellomedicinebd.com) | Active |
-| 483 | [sellvion24.com](http://sellvion24.com) | Active |
-| 484 | [riyamartbd.com](http://riyamartbd.com) | Active |
-| 485 | [clickbuy24.com](http://clickbuy24.com) | Active |
-| 486 | [proyozon24.com](http://proyozon24.com) | Active |
-| 487 | [esell24.com](http://esell24.com) | Active |
-| 488 | [afraemart.com](http://afraemart.com) | Active |
-| 489 | [mixmartbd.com](http://mixmartbd.com) | Active |
-| 490 | [armart24.com](http://armart24.com) | Active |
-| 491 | [amazanhub.com](http://amazanhub.com) | Active |
-| 492 | [sellora24.com](http://sellora24.com) | Active |
-| 493 | [mollabajar.com](http://mollabajar.com) | Active |
-| 494 | [nittomela.com](http://nittomela.com) | Active |
-| 495 | [shopghor24.com](http://shopghor24.com) | Active |
+| 481 | [hellomedicinebd.com](http://hellomedicinebd.com) | Active |
+| 482 | [sellvion24.com](http://sellvion24.com) | Active |
+| 483 | [riyamartbd.com](http://riyamartbd.com) | Active |
+| 484 | [clickbuy24.com](http://clickbuy24.com) | Active |
+| 485 | [proyozon24.com](http://proyozon24.com) | Active |
+| 486 | [esell24.com](http://esell24.com) | Active |
+| 487 | [afraemart.com](http://afraemart.com) | Active |
+| 488 | [mixmartbd.com](http://mixmartbd.com) | Active |
+| 489 | [armart24.com](http://armart24.com) | Active |
+| 490 | [amazanhub.com](http://amazanhub.com) | Active |
+| 491 | [sellora24.com](http://sellora24.com) | Active |
+| 492 | [mollabajar.com](http://mollabajar.com) | Active |
+| 493 | [nittomela.com](http://nittomela.com) | Active |
+| 494 | [shopghor24.com](http://shopghor24.com) | Active |
+| 495 | [easydeals24.com](http://easydeals24.com) | Active |
