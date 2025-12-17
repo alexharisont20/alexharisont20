@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}497}$$ 🔥 domains are live now
+These 🔥 $${\color{red}500}$$ 🔥 domains are live now
 
-_Last updated: **2025-12-17 13:59:35 Asia/Dhaka**_
+_Last updated: **2025-12-17 14:42:06 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -757,3 +757,6 @@ _Last updated: **2025-12-17 13:59:35 Asia/Dhaka**_
 | 495 | [sellora24.com](http://sellora24.com) | Active |
 | 496 | [armart24.com](http://armart24.com) | Active |
 | 497 | [akshopbd.com](http://akshopbd.com) | Active |
+| 498 | [aminbazar24.com](http://aminbazar24.com) | Active |
+| 499 | [aroggomart.com](http://aroggomart.com) | Active |
+| 500 | [dhakamode.com](http://dhakamode.com) | Active |
