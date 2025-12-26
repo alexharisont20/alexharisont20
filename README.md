@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}500}$$ 🔥 domains are live now
+These 🔥 $${\color{red}501}$$ 🔥 domains are live now
 
-_Last updated: **2025-12-27 00:52:50 Asia/Dhaka**_
+_Last updated: **2025-12-27 01:16:56 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -739,24 +739,25 @@ _Last updated: **2025-12-27 00:52:50 Asia/Dhaka**_
 | 477 | [azizbazarbd.com](http://azizbazarbd.com) | Active |
 | 478 | [sellora24.com](http://sellora24.com) | Active |
 | 479 | [armart24.com](http://armart24.com) | Active |
-| 480 | [akshopbd.com](http://akshopbd.com) | Active |
-| 481 | [aminbazar24.com](http://aminbazar24.com) | Active |
-| 482 | [aroggomart.com](http://aroggomart.com) | Active |
-| 483 | [modernmart24.com](http://modernmart24.com) | Active |
-| 484 | [soberbazaar.com](http://soberbazaar.com) | Active |
-| 485 | [bismillaheshop.com](http://bismillaheshop.com) | Active |
-| 486 | [meyabhai.com](http://meyabhai.com) | Active |
-| 487 | [sellvally24.com](http://sellvally24.com) | Active |
-| 488 | [proyzonmart.com](http://proyzonmart.com) | Active |
-| 489 | [swapnovalley.com](http://swapnovalley.com) | Active |
-| 490 | [dhakamode.com](http://dhakamode.com) | Active |
-| 491 | [rahimonlinesupershop.com](http://rahimonlinesupershop.com) | Active |
-| 492 | [khepabazar.com](http://khepabazar.com) | Active |
-| 493 | [rafidenterprise.com](http://rafidenterprise.com) | Active |
-| 494 | [bishuddhobazar24.com](http://bishuddhobazar24.com) | Active |
-| 495 | [earlychoicebd.com](http://earlychoicebd.com) | Active |
-| 496 | [mazumdersebaenterprise.com](http://mazumdersebaenterprise.com) | Active |
-| 497 | [aftaralea.com](http://aftaralea.com) | Active |
-| 498 | [anurupshop.com](http://anurupshop.com) | Active |
-| 499 | [mollabajar.com](http://mollabajar.com) | Active |
-| 500 | [emela24.com](http://emela24.com) | Active |
+| 480 | [aminbazar24.com](http://aminbazar24.com) | Active |
+| 481 | [aroggomart.com](http://aroggomart.com) | Active |
+| 482 | [modernmart24.com](http://modernmart24.com) | Active |
+| 483 | [soberbazaar.com](http://soberbazaar.com) | Active |
+| 484 | [bismillaheshop.com](http://bismillaheshop.com) | Active |
+| 485 | [meyabhai.com](http://meyabhai.com) | Active |
+| 486 | [sellvally24.com](http://sellvally24.com) | Active |
+| 487 | [proyzonmart.com](http://proyzonmart.com) | Active |
+| 488 | [swapnovalley.com](http://swapnovalley.com) | Active |
+| 489 | [dhakamode.com](http://dhakamode.com) | Active |
+| 490 | [rahimonlinesupershop.com](http://rahimonlinesupershop.com) | Active |
+| 491 | [khepabazar.com](http://khepabazar.com) | Active |
+| 492 | [rafidenterprise.com](http://rafidenterprise.com) | Active |
+| 493 | [bishuddhobazar24.com](http://bishuddhobazar24.com) | Active |
+| 494 | [earlychoicebd.com](http://earlychoicebd.com) | Active |
+| 495 | [mazumdersebaenterprise.com](http://mazumdersebaenterprise.com) | Active |
+| 496 | [aftaralea.com](http://aftaralea.com) | Active |
+| 497 | [anurupshop.com](http://anurupshop.com) | Active |
+| 498 | [mollabajar.com](http://mollabajar.com) | Active |
+| 499 | [emela24.com](http://emela24.com) | Active |
+| 500 | [onlinerbazar.com](http://onlinerbazar.com) | Active |
+| 501 | [akshopbd.com](http://akshopbd.com) | Active |
