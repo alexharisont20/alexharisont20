@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}500}$$ 🔥 domains are live now
+These 🔥 $${\color{red}501}$$ 🔥 domains are live now
 
-_Last updated: **2025-12-28 01:53:29 Asia/Dhaka**_
+_Last updated: **2025-12-28 02:25:00 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -276,21 +276,21 @@ _Last updated: **2025-12-28 01:53:29 Asia/Dhaka**_
 | 14 | [knakata.com](http://knakata.com) | Active |
 | 15 | [djkshop.com](http://djkshop.com) | Active |
 | 16 | [smartbuybd.com](http://smartbuybd.com) | Active |
-| 17 | [bdstore7.com](http://bdstore7.com) | Active |
-| 18 | [supersaversbd.com](http://supersaversbd.com) | Active |
-| 19 | [rsliveshopping.com](http://rsliveshopping.com) | Active |
-| 20 | [greatzonebd.com](http://greatzonebd.com) | Active |
-| 21 | [adhunikbazarbd.com](http://adhunikbazarbd.com) | Active |
-| 22 | [knmartbd.com](http://knmartbd.com) | Active |
-| 23 | [anikamart.com](http://anikamart.com) | Active |
-| 24 | [jkshopbd24.com](http://jkshopbd24.com) | Active |
-| 25 | [sohozkenakata.com](http://sohozkenakata.com) | Active |
-| 26 | [kbenterprisebd.com](http://kbenterprisebd.com) | Active |
-| 27 | [e-bajar.com](http://e-bajar.com) | Active |
-| 28 | [nooronlinemart.com](http://nooronlinemart.com) | Active |
-| 29 | [sonjitaonlineshop.com](http://sonjitaonlineshop.com) | Active |
-| 30 | [emela-24.com](http://emela-24.com) | Active |
-| 31 | [standardcollectionbd.com](http://standardcollectionbd.com) | Active |
+| 17 | [supersaversbd.com](http://supersaversbd.com) | Active |
+| 18 | [rsliveshopping.com](http://rsliveshopping.com) | Active |
+| 19 | [greatzonebd.com](http://greatzonebd.com) | Active |
+| 20 | [adhunikbazarbd.com](http://adhunikbazarbd.com) | Active |
+| 21 | [knmartbd.com](http://knmartbd.com) | Active |
+| 22 | [anikamart.com](http://anikamart.com) | Active |
+| 23 | [jkshopbd24.com](http://jkshopbd24.com) | Active |
+| 24 | [sohozkenakata.com](http://sohozkenakata.com) | Active |
+| 25 | [kbenterprisebd.com](http://kbenterprisebd.com) | Active |
+| 26 | [e-bajar.com](http://e-bajar.com) | Active |
+| 27 | [nooronlinemart.com](http://nooronlinemart.com) | Active |
+| 28 | [sonjitaonlineshop.com](http://sonjitaonlineshop.com) | Active |
+| 29 | [emela-24.com](http://emela-24.com) | Active |
+| 30 | [standardcollectionbd.com](http://standardcollectionbd.com) | Active |
+| 31 | [supersell24.com](http://supersell24.com) | Active |
 | 32 | [eshrakenterprise.com](http://eshrakenterprise.com) | Active |
 | 33 | [sweetybazarbd.com](http://sweetybazarbd.com) | Active |
 | 34 | [merazonlineshop.com](http://merazonlineshop.com) | Active |
@@ -759,4 +759,5 @@ _Last updated: **2025-12-28 01:53:29 Asia/Dhaka**_
 | 497 | [anurupshop.com](http://anurupshop.com) | Active |
 | 498 | [mollabajar.com](http://mollabajar.com) | Active |
 | 499 | [emela24.com](http://emela24.com) | Active |
-| 500 | [akshopbd.com](http://akshopbd.com) | Active |
+| 500 | [onlinerbazar.com](http://onlinerbazar.com) | Active |
+| 501 | [akshopbd.com](http://akshopbd.com) | Active |
