@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}499}$$ 🔥 domains are live now
+These 🔥 $${\color{red}500}$$ 🔥 domains are live now
 
-_Last updated: **2025-12-31 19:54:42 Asia/Dhaka**_
+_Last updated: **2025-12-31 20:26:03 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -759,3 +759,4 @@ _Last updated: **2025-12-31 19:54:42 Asia/Dhaka**_
 | 497 | [proyzonmart.com](http://proyzonmart.com) | Active |
 | 498 | [arishashopbd.com](http://arishashopbd.com) | Active |
 | 499 | [samiyasmartshop.com](http://samiyasmartshop.com) | Active |
+| 500 | [sellzone24.com](http://sellzone24.com) | Active |
