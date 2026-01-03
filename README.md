@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}497}$$ 🔥 domains are live now
+These 🔥 $${\color{red}500}$$ 🔥 domains are live now
 
-_Last updated: **2026-01-03 12:57:41 Asia/Dhaka**_
+_Last updated: **2026-01-03 13:27:17 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -750,10 +750,13 @@ _Last updated: **2026-01-03 12:57:41 Asia/Dhaka**_
 | 488 | [onlinerbazar.com](http://onlinerbazar.com) | Active |
 | 489 | [akshopbd.com](http://akshopbd.com) | Active |
 | 490 | [bajarghor.com](http://bajarghor.com) | Active |
-| 491 | [cozyyards.com](http://cozyyards.com) | Active |
-| 492 | [proyzonmart.com](http://proyzonmart.com) | Active |
-| 493 | [arishashopbd.com](http://arishashopbd.com) | Active |
-| 494 | [samiyasmartshop.com](http://samiyasmartshop.com) | Active |
-| 495 | [sellzone24.com](http://sellzone24.com) | Active |
-| 496 | [smartchoicebd24.com](http://smartchoicebd24.com) | Active |
-| 497 | [horekrokom24.com](http://horekrokom24.com) | Active |
+| 491 | [proyzonmart.com](http://proyzonmart.com) | Active |
+| 492 | [arishashopbd.com](http://arishashopbd.com) | Active |
+| 493 | [samiyasmartshop.com](http://samiyasmartshop.com) | Active |
+| 494 | [sellzone24.com](http://sellzone24.com) | Active |
+| 495 | [smartchoicebd24.com](http://smartchoicebd24.com) | Active |
+| 496 | [horekrokom24.com](http://horekrokom24.com) | Active |
+| 497 | [trusthubbd.com](http://trusthubbd.com) | Active |
+| 498 | [ekingdombd.com](http://ekingdombd.com) | Active |
+| 499 | [cozyyards.com](http://cozyyards.com) | Active |
+| 500 | [alefaenterprise.com](http://alefaenterprise.com) | Active |
