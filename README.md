@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}503}$$ 🔥 domains are live now
+These 🔥 $${\color{red}505}$$ 🔥 domains are live now
 
-_Last updated: **2026-01-07 01:51:44 Asia/Dhaka**_
+_Last updated: **2026-01-07 02:21:16 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -758,8 +758,10 @@ _Last updated: **2026-01-07 01:51:44 Asia/Dhaka**_
 | 496 | [ekingdombd.com](http://ekingdombd.com) | Active |
 | 497 | [cozyyards.com](http://cozyyards.com) | Active |
 | 498 | [alefaenterprise.com](http://alefaenterprise.com) | Active |
-| 499 | [easybuyingbd.com](http://easybuyingbd.com) | Active |
-| 500 | [shohozbajar.com](http://shohozbajar.com) | Active |
-| 501 | [needvally.com](http://needvally.com) | Active |
-| 502 | [redmoon24.com](http://redmoon24.com) | Active |
-| 503 | [bondhonbazar04.com](http://bondhonbazar04.com) | Active |
+| 499 | [smarttechnologiespro.com](http://smarttechnologiespro.com) | Active |
+| 500 | [easybuyingbd.com](http://easybuyingbd.com) | Active |
+| 501 | [shohozbajar.com](http://shohozbajar.com) | Active |
+| 502 | [needvally.com](http://needvally.com) | Active |
+| 503 | [redmoon24.com](http://redmoon24.com) | Active |
+| 504 | [bondhonbazar04.com](http://bondhonbazar04.com) | Active |
+| 505 | [touchnpick.com](http://touchnpick.com) | Active |
