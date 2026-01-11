@@ -256,7 +256,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}500}$$ 🔥 domains are live now
 
-_Last updated: **2026-01-11 18:57:39 Asia/Dhaka**_
+_Last updated: **2026-01-11 19:36:17 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -758,5 +758,5 @@ _Last updated: **2026-01-11 18:57:39 Asia/Dhaka**_
 | 496 | [marjanmartbd.com](http://marjanmartbd.com) | Active |
 | 497 | [caregivershealthcareinstituteltd.com](http://caregivershealthcareinstituteltd.com) | Active |
 | 498 | [mixmartbd.com](http://mixmartbd.com) | Active |
-| 499 | [skyshopbd24.com](http://skyshopbd24.com) | Active |
-| 500 | [mylittlestore24.com](http://mylittlestore24.com) | Active |
+| 499 | [mylittlestore24.com](http://mylittlestore24.com) | Active |
+| 500 | [skyshopbd24.com](http://skyshopbd24.com) | Active |
