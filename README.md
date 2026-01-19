@@ -256,30 +256,30 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 ## Active Deployments
 These 🔥 $${\color{red}497}$$ 🔥 domains are live now
 
-_Last updated: **2026-01-20 01:56:30 Asia/Dhaka**_
+_Last updated: **2026-01-20 02:33:54 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
 | 1 | [bsbazarbd.com](http://bsbazarbd.com) | Active |
 | 2 | [iuddokta.com](http://iuddokta.com) | Active |
-| 3 | [ramboshopping.com](http://ramboshopping.com) | Active |
-| 4 | [bikroyjogot.com](http://bikroyjogot.com) | Active |
-| 5 | [honestshop24.com](http://honestshop24.com) | Active |
-| 6 | [emaxbd.com](http://emaxbd.com) | Active |
-| 7 | [ecom.sebaitsolutions.com](http://ecom.sebaitsolutions.com) | Active |
-| 8 | [crazycartz.com](http://crazycartz.com) | Active |
-| 9 | [homeneedsbd.com](http://homeneedsbd.com) | Active |
-| 10 | [liberaltradersbd.com](http://liberaltradersbd.com) | Active |
-| 11 | [monpurabazar.com](http://monpurabazar.com) | Active |
-| 12 | [djkshop.com](http://djkshop.com) | Active |
-| 13 | [smartbuybd.com](http://smartbuybd.com) | Active |
-| 14 | [supersaversbd.com](http://supersaversbd.com) | Active |
-| 15 | [rsliveshopping.com](http://rsliveshopping.com) | Active |
-| 16 | [greatzonebd.com](http://greatzonebd.com) | Active |
-| 17 | [adhunikbazarbd.com](http://adhunikbazarbd.com) | Active |
-| 18 | [knmartbd.com](http://knmartbd.com) | Active |
-| 19 | [anikamart.com](http://anikamart.com) | Active |
-| 20 | [jkshopbd24.com](http://jkshopbd24.com) | Active |
+| 3 | [kroymela.com](http://kroymela.com) | Active |
+| 4 | [ramboshopping.com](http://ramboshopping.com) | Active |
+| 5 | [bikroyjogot.com](http://bikroyjogot.com) | Active |
+| 6 | [honestshop24.com](http://honestshop24.com) | Active |
+| 7 | [emaxbd.com](http://emaxbd.com) | Active |
+| 8 | [ecom.sebaitsolutions.com](http://ecom.sebaitsolutions.com) | Active |
+| 9 | [crazycartz.com](http://crazycartz.com) | Active |
+| 10 | [homeneedsbd.com](http://homeneedsbd.com) | Active |
+| 11 | [liberaltradersbd.com](http://liberaltradersbd.com) | Active |
+| 12 | [monpurabazar.com](http://monpurabazar.com) | Active |
+| 13 | [djkshop.com](http://djkshop.com) | Active |
+| 14 | [smartbuybd.com](http://smartbuybd.com) | Active |
+| 15 | [supersaversbd.com](http://supersaversbd.com) | Active |
+| 16 | [rsliveshopping.com](http://rsliveshopping.com) | Active |
+| 17 | [greatzonebd.com](http://greatzonebd.com) | Active |
+| 18 | [adhunikbazarbd.com](http://adhunikbazarbd.com) | Active |
+| 19 | [knmartbd.com](http://knmartbd.com) | Active |
+| 20 | [anikamart.com](http://anikamart.com) | Active |
 | 21 | [sohozkenakata.com](http://sohozkenakata.com) | Active |
 | 22 | [e-bajar.com](http://e-bajar.com) | Active |
 | 23 | [merazonlineshop.com](http://merazonlineshop.com) | Active |
