@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}498}$$ 🔥 domains are live now
+These 🔥 $${\color{red}497}$$ 🔥 domains are live now
 
-_Last updated: **2026-01-21 01:46:25 Asia/Dhaka**_
+_Last updated: **2026-01-21 02:35:51 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -717,44 +717,43 @@ _Last updated: **2026-01-21 01:46:25 Asia/Dhaka**_
 | 455 | [swapnovalley.com](http://swapnovalley.com) | Active |
 | 456 | [dhakamode.com](http://dhakamode.com) | Active |
 | 457 | [rahimonlinesupershop.com](http://rahimonlinesupershop.com) | Active |
-| 458 | [khepabazar.com](http://khepabazar.com) | Active |
-| 459 | [rafidenterprise.com](http://rafidenterprise.com) | Active |
-| 460 | [bishuddhobazar24.com](http://bishuddhobazar24.com) | Active |
-| 461 | [earlychoicebd.com](http://earlychoicebd.com) | Active |
-| 462 | [mazumdersebaenterprise.com](http://mazumdersebaenterprise.com) | Active |
-| 463 | [aftaralea.com](http://aftaralea.com) | Active |
-| 464 | [anurupshop.com](http://anurupshop.com) | Active |
-| 465 | [mollabajar.com](http://mollabajar.com) | Active |
-| 466 | [emela24.com](http://emela24.com) | Active |
-| 467 | [onlinerbazar.com](http://onlinerbazar.com) | Active |
-| 468 | [akshopbd.com](http://akshopbd.com) | Active |
-| 469 | [bajarghor.com](http://bajarghor.com) | Active |
-| 470 | [proyzonmart.com](http://proyzonmart.com) | Active |
-| 471 | [arishashopbd.com](http://arishashopbd.com) | Active |
-| 472 | [samiyasmartshop.com](http://samiyasmartshop.com) | Active |
-| 473 | [sellzone24.com](http://sellzone24.com) | Active |
-| 474 | [smartchoicebd24.com](http://smartchoicebd24.com) | Active |
-| 475 | [horekrokom24.com](http://horekrokom24.com) | Active |
-| 476 | [trusthubbd.com](http://trusthubbd.com) | Active |
-| 477 | [ekingdombd.com](http://ekingdombd.com) | Active |
-| 478 | [cozyyards.com](http://cozyyards.com) | Active |
-| 479 | [alefaenterprise.com](http://alefaenterprise.com) | Active |
-| 480 | [smarttechnologiespro.com](http://smarttechnologiespro.com) | Active |
-| 481 | [easybuyingbd.com](http://easybuyingbd.com) | Active |
-| 482 | [shohozbajar.com](http://shohozbajar.com) | Active |
-| 483 | [redmoon24.com](http://redmoon24.com) | Active |
-| 484 | [bondhonbazar04.com](http://bondhonbazar04.com) | Active |
-| 485 | [touchnpick.com](http://touchnpick.com) | Active |
-| 486 | [marjanmartbd.com](http://marjanmartbd.com) | Active |
-| 487 | [caregivershealthcareinstituteltd.com](http://caregivershealthcareinstituteltd.com) | Active |
-| 488 | [mixmartbd.com](http://mixmartbd.com) | Active |
-| 489 | [mylittlestore24.com](http://mylittlestore24.com) | Active |
-| 490 | [skyshopbd24.com](http://skyshopbd24.com) | Active |
-| 491 | [resell.cyber32.net](http://resell.cyber32.net) | Active |
-| 492 | [sauddoktapoint.com](http://sauddoktapoint.com) | Active |
-| 493 | [smartworldzone.com](http://smartworldzone.com) | Active |
-| 494 | [meherazone.com](http://meherazone.com) | Active |
-| 495 | [needvally.com](http://needvally.com) | Active |
-| 496 | [zamedar.com](http://zamedar.com) | Active |
-| 497 | [hrebazar.com](http://hrebazar.com) | Active |
-| 498 | [relaxbdshop.com](http://relaxbdshop.com) | Active |
+| 458 | [rafidenterprise.com](http://rafidenterprise.com) | Active |
+| 459 | [bishuddhobazar24.com](http://bishuddhobazar24.com) | Active |
+| 460 | [earlychoicebd.com](http://earlychoicebd.com) | Active |
+| 461 | [mazumdersebaenterprise.com](http://mazumdersebaenterprise.com) | Active |
+| 462 | [aftaralea.com](http://aftaralea.com) | Active |
+| 463 | [anurupshop.com](http://anurupshop.com) | Active |
+| 464 | [mollabajar.com](http://mollabajar.com) | Active |
+| 465 | [emela24.com](http://emela24.com) | Active |
+| 466 | [onlinerbazar.com](http://onlinerbazar.com) | Active |
+| 467 | [akshopbd.com](http://akshopbd.com) | Active |
+| 468 | [bajarghor.com](http://bajarghor.com) | Active |
+| 469 | [proyzonmart.com](http://proyzonmart.com) | Active |
+| 470 | [arishashopbd.com](http://arishashopbd.com) | Active |
+| 471 | [samiyasmartshop.com](http://samiyasmartshop.com) | Active |
+| 472 | [sellzone24.com](http://sellzone24.com) | Active |
+| 473 | [smartchoicebd24.com](http://smartchoicebd24.com) | Active |
+| 474 | [horekrokom24.com](http://horekrokom24.com) | Active |
+| 475 | [trusthubbd.com](http://trusthubbd.com) | Active |
+| 476 | [ekingdombd.com](http://ekingdombd.com) | Active |
+| 477 | [cozyyards.com](http://cozyyards.com) | Active |
+| 478 | [alefaenterprise.com](http://alefaenterprise.com) | Active |
+| 479 | [smarttechnologiespro.com](http://smarttechnologiespro.com) | Active |
+| 480 | [easybuyingbd.com](http://easybuyingbd.com) | Active |
+| 481 | [shohozbajar.com](http://shohozbajar.com) | Active |
+| 482 | [redmoon24.com](http://redmoon24.com) | Active |
+| 483 | [bondhonbazar04.com](http://bondhonbazar04.com) | Active |
+| 484 | [touchnpick.com](http://touchnpick.com) | Active |
+| 485 | [marjanmartbd.com](http://marjanmartbd.com) | Active |
+| 486 | [caregivershealthcareinstituteltd.com](http://caregivershealthcareinstituteltd.com) | Active |
+| 487 | [mixmartbd.com](http://mixmartbd.com) | Active |
+| 488 | [mylittlestore24.com](http://mylittlestore24.com) | Active |
+| 489 | [skyshopbd24.com](http://skyshopbd24.com) | Active |
+| 490 | [resell.cyber32.net](http://resell.cyber32.net) | Active |
+| 491 | [sauddoktapoint.com](http://sauddoktapoint.com) | Active |
+| 492 | [smartworldzone.com](http://smartworldzone.com) | Active |
+| 493 | [meherazone.com](http://meherazone.com) | Active |
+| 494 | [needvally.com](http://needvally.com) | Active |
+| 495 | [zamedar.com](http://zamedar.com) | Active |
+| 496 | [hrebazar.com](http://hrebazar.com) | Active |
+| 497 | [relaxbdshop.com](http://relaxbdshop.com) | Active |
