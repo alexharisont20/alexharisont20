@@ -254,19 +254,19 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}497}$$ 🔥 domains are live now
+These 🔥 $${\color{red}498}$$ 🔥 domains are live now
 
-_Last updated: **2026-01-25 01:51:20 Asia/Dhaka**_
+_Last updated: **2026-01-25 02:18:34 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
 | 1 | [bsbazarbd.com](http://bsbazarbd.com) | Active |
 | 2 | [iuddokta.com](http://iuddokta.com) | Active |
-| 3 | [kroymela.com](http://kroymela.com) | Active |
-| 4 | [ramboshopping.com](http://ramboshopping.com) | Active |
-| 5 | [bikroyjogot.com](http://bikroyjogot.com) | Active |
-| 6 | [honestshop24.com](http://honestshop24.com) | Active |
-| 7 | [emaxbd.com](http://emaxbd.com) | Active |
+| 3 | [ramboshopping.com](http://ramboshopping.com) | Active |
+| 4 | [bikroyjogot.com](http://bikroyjogot.com) | Active |
+| 5 | [honestshop24.com](http://honestshop24.com) | Active |
+| 6 | [emaxbd.com](http://emaxbd.com) | Active |
+| 7 | [banglashop24.com](http://banglashop24.com) | Active |
 | 8 | [ecom.sebaitsolutions.com](http://ecom.sebaitsolutions.com) | Active |
 | 9 | [crazycartz.com](http://crazycartz.com) | Active |
 | 10 | [homeneedsbd.com](http://homeneedsbd.com) | Active |
@@ -757,3 +757,4 @@ _Last updated: **2026-01-25 01:51:20 Asia/Dhaka**_
 | 495 | [merazonlineshop.com](http://merazonlineshop.com) | Active |
 | 496 | [assamsitenterprise.com](http://assamsitenterprise.com) | Active |
 | 497 | [benimoy.com](http://benimoy.com) | Active |
+| 498 | [astherghor.com](http://astherghor.com) | Active |
