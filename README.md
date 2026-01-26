@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}495}$$ 🔥 domains are live now
+These 🔥 $${\color{red}496}$$ 🔥 domains are live now
 
-_Last updated: **2026-01-26 21:15:11 Asia/Dhaka**_
+_Last updated: **2026-01-26 21:47:32 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -755,3 +755,4 @@ _Last updated: **2026-01-26 21:15:11 Asia/Dhaka**_
 | 493 | [assamsitenterprise.com](http://assamsitenterprise.com) | Active |
 | 494 | [benimoy.com](http://benimoy.com) | Active |
 | 495 | [astherghor.com](http://astherghor.com) | Active |
+| 496 | [trandytradebd.com](http://trandytradebd.com) | Active |
