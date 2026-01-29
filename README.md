@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}483}$$ 🔥 domains are live now
+These 🔥 $${\color{red}486}$$ 🔥 domains are live now
 
-_Last updated: **2026-01-29 16:07:04 Asia/Dhaka**_
+_Last updated: **2026-01-29 16:57:21 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -743,3 +743,6 @@ _Last updated: **2026-01-29 16:07:04 Asia/Dhaka**_
 | 481 | [astherghor.com](http://astherghor.com) | Active |
 | 482 | [trandytradebd.com](http://trandytradebd.com) | Active |
 | 483 | [shebaenterprise.com](http://shebaenterprise.com) | Active |
+| 484 | [nittoponnobd.com](http://nittoponnobd.com) | Active |
+| 485 | [shoshimart.com](http://shoshimart.com) | Active |
+| 486 | [uniquemart24.com](http://uniquemart24.com) | Active |
