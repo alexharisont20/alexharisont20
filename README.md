@@ -254,9 +254,9 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&card_width=500)](https://github.com/bdsumon4u)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500)](https://github.com/bdsumon4u)
 ## Active Deployments
-These 🔥 $${\color{red}480}$$ 🔥 domains are live now
+These 🔥 $${\color{red}482}$$ 🔥 domains are live now
 
-_Last updated: **2026-01-31 12:52:25 Asia/Dhaka**_
+_Last updated: **2026-01-31 13:28:02 Asia/Dhaka**_
 
 | # | Domain | Status |
 |---|--------|--------|
@@ -740,3 +740,5 @@ _Last updated: **2026-01-31 12:52:25 Asia/Dhaka**_
 | 478 | [shebaenterprise.com](http://shebaenterprise.com) | Active |
 | 479 | [nittoponnobd.com](http://nittoponnobd.com) | Active |
 | 480 | [shoshimart.com](http://shoshimart.com) | Active |
+| 481 | [fnfenterprise.com](http://fnfenterprise.com) | Active |
+| 482 | [akandamart.com](http://akandamart.com) | Active |
